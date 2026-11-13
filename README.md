@@ -1,5 +1,7 @@
 # Free AI image prompts, with the images they made
 
+**English** · [简体中文](README.zh.md)
+
 60 AI image prompts written and tested by [Prompix](https://prompix.ai), each shown with its result. They are released under
 [CC0](LICENSE): copy them, change them, use them anywhere, no credit needed.
 
