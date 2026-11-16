@@ -2,28 +2,28 @@
 
 **English** · [简体中文](README.zh.md)
 
-84 AI image prompts written and tested by [Prompix](https://prompix.ai), each shown with its result. They are released under
+93 AI image prompts written and tested by [Prompix](https://prompix.ai), each shown with its result. They are released under
 [CC0](LICENSE): copy them, change them, use them anywhere, no credit needed.
 
 Thousands more, from creators across the web and credited to each of them, are on **[prompix.ai](https://prompix.ai)**:
 [AI image prompts](https://prompix.ai/image-prompts) · [AI video prompts](https://prompix.ai/video-prompts) · [text prompts](https://prompix.ai/text-prompts) ·
 [game prompts](https://prompix.ai/game-prompts) · [trending](https://prompix.ai/trending) · [prompt of the day](https://prompix.ai/daily)
 
-By model: [Nano Banana prompts](https://prompix.ai/models/nano-banana) · [Midjourney prompts](https://prompix.ai/models/midjourney) · [GPT Image prompts](https://prompix.ai/models/gpt-image) · [Seedream prompts](https://prompix.ai/models/seedream)
+By model: [GPT Image prompts](https://prompix.ai/models/gpt-image) · [Nano Banana prompts](https://prompix.ai/models/nano-banana) · [Midjourney prompts](https://prompix.ai/models/midjourney) · [Seedream prompts](https://prompix.ai/models/seedream)
 
 ## Contents
 
 - [Illustration](#illustration) (22)
-- [Portraits](#portraits) (14)
+- [Portraits](#portraits) (21)
 - [Posters](#posters) (12)
+- [Photo editing](#photo-editing) (10)
 - [Food](#food) (8)
-- [Photo editing](#photo-editing) (8)
 - [Product](#product) (4)
-- [Characters](#characters) (4)
 - [Spaces](#spaces) (3)
 - [Travel](#travel) (3)
 - [Infographics](#infographics) (3)
-- [Social](#social) (1)
+- [Characters](#characters) (3)
+- [Social](#social) (2)
 - [Fashion](#fashion) (1)
 - [Everyday](#everyday) (1)
 
@@ -327,6 +327,90 @@ Twelve small blue-and-white porcelain plates arranged in four rows of three, lyi
 
 ## Portraits
 
+### [1980s laser-background portrait](https://prompix.ai/prompts/fp-1980s-laser-backdrop-portrait)
+
+<a href="https://prompix.ai/prompts/fp-1980s-laser-backdrop-portrait"><img src="https://api.prompix.ai/media/w480/31c3d372e37c505309b58eadc76c6a29f983d848e4ecdf60cdc2503e40173c6b.jpg" alt="1980s laser-background portrait" width="360"></a>
+
+Change the opening hairstyle and outfit, then upload a photo to use: the person in the photo becomes a portrait from an 1980s school picture day, with two pink and cyan laser beams on a mottled dark blue backdrop, a halo of rim light around the head, and white-bordered photo paper with a slight magenta cast. Tested with an Indian man, an East Asian woman, a woman in her sixties, and a bearded man.
+
+**Model:** GPT Image 2.6
+
+```text
+Hair: big permed curls with a side ponytail in a scrunchie. Outfit: a pink oversized blouse with a big bow at the neck. Turn the photo I upload into a 1980s picture-day portrait, the kind taken by a travelling photographer for a college yearbook. Keep the person from my photo recognisable: the same face, age, skin tone and build; the person is an adult. Restyle them with the hair above and dress them in the outfit above. Head and shoulders, body turned about forty-five degrees, head tilted toward the camera with a slightly too-careful smile, face in the upper middle of the frame. Behind them, the backdrop that defines the era: a mottled dark blue cloth with thin glowing pink and cyan laser beams crossing diagonally behind the head and fading out at the edges. Light: soft frontal studio light, an even face with a small catchlight, and a bright hair light from behind that puts a halo on the top of the hair. The picture is a real colour print with a thin white border: slightly soft focus, fine grain, a warm magenta cast in the skin and a faint fade in the blacks, a tiny dust speck or two. Avoid: text, logos, modern sharpness, studio props, a smooth gradient backdrop without lasers.
+```
+
+### [1980s mall soft-focus portrait](https://prompix.ai/prompts/fp-1980s-mall-glamour-shot)
+
+<a href="https://prompix.ai/prompts/fp-1980s-mall-glamour-shot"><img src="https://api.prompix.ai/media/w480/ef4c74e85508257a4d720288ac8b80e3f3d6d427dcd3eb5f87bbd75feaa0c16e.jpg" alt="1980s mall soft-focus portrait" width="360"></a>
+
+Change the opening look and background lighting colors, then upload a photo to use: a soft-focus close-up from an 1980s mall portrait studio, with highlights dissolving into haze, four-point starbursts on the jewelry, a hand under the chin, a glance over the shoulder, and vignetting around the edges. Tested with East Asian women, an Indian man, an older woman with silver hair, and a long-haired man with a big beard.
+
+**Model:** GPT Image 2.6
+
+```text
+Styling: silver hair blow-dried into a big soft bouffant, a black velvet jacket with shoulder pads, pearl earrings and a pearl choker. Backdrop glow: rose pink. Turn the photo I upload into a 1980s glamour-studio portrait, the kind made in a shopping-mall studio for a framed gift. Keep the person from my photo recognisable: the same face, age, skin tone and build; the person is an adult. Restyle them with the styling above, with the big, careful, hairsprayed volume of the era. Pose: three-quarter view, half-body, one hand lifted near the chin or resting on the collar, looking over the shoulder at the camera with a confident, slightly dreamy expression. Behind them, a smoky dark backdrop with a soft spot of the colour glow above behind the head. The look comes from the lens: a heavy soft-focus haze, so every highlight on the skin, hair and jewellery blooms into a soft glow, small four-pointed star sparkles on the brightest jewellery or sequins, and the edges of the frame dissolve into a dark soft vignette. The face itself stays readable, with strong blush, bold lips or a groomed look, and a rim light outlining the hair. Rich colour print with warm skin and a slight magenta cast, fine grain. Avoid: text, logos, modern sharpness, plastic skin, revealing clothes.
+```
+
+### [1980s dance portrait](https://prompix.ai/prompts/fp-1980s-prom-photo-card-folder)
+
+<a href="https://prompix.ai/prompts/fp-1980s-prom-photo-card-folder"><img src="https://api.prompix.ai/media/w480/fb16a211ee69953bc9a42cea84be4e1b0f326651d4047da60ec4d375a1673cec.jpg" alt="1980s dance portrait" width="360"></a>
+
+Change the opening dance name and formalwear, then upload a photo of two people to use: a portrait taken by a dance photographer in the 1980s, with puff-sleeve taffeta, a white floral arch, balloons, and the dance name in gold foil at the bottom, framed in an oval window on dark blue cardstock. Tested with couples, older couples, two women, and Black couples.
+
+**Model:** GPT Image 2.6
+
+```text
+Dance: "Moonlight Dance 1985". Outfits: two taffeta gowns with huge puffed sleeves and high necklines, one in mint green and one in lilac. Turn the photo I upload into an official 1980s prom-style photo of the two people in it, the posed portrait a hired photographer takes at a formal dance. Keep both people recognisable: the same faces, ages, skin tones and builds; both are adults. Dress them in the 1980s formal wear above, with big permed, teased or feathered hair and a wrist corsage or a boutonniere. The classic pose: one stands just behind the other at an angle, hands clasped together at the front waist, both smiling straight at the camera. Behind them, a white lattice arch wound with artificial flowers in front of a backdrop painted with a pastel sky, and a few balloons in matching colours at the edges. Light: one flash with an umbrella from the front, bright even faces, a soft shadow on the backdrop, a slight shine on satin and taffeta. The photo is a real colour print mounted in a cardboard folder: a deep blue card mount with a cut oval window around the photo and the name of the dance above printed in small gold foil script below the window, exactly as written with no quotation marks. Avoid: any other text, logos, modern hairstyles, revealing clothes, teenagers.
+```
+
+### [Christmas studio portrait in matching sweaters](https://prompix.ai/prompts/fp-christmas-matching-sweater-studio-portrait)
+
+<a href="https://prompix.ai/prompts/fp-christmas-matching-sweater-studio-portrait"><img src="https://api.prompix.ai/media/w480/8a0c323be546605931b70a1cf9b043358401d19e1d30920f6aa86d1bde55b63f.jpg" alt="Christmas studio portrait in matching sweaters" width="360"></a>
+
+Change the opening sweaters and background, then upload a family or group photo to use: everyone changes into sweaters of the same style and color, sitting in one row and standing in another in a studio, beside a small tree decorated only with white lights. The sweaters are the only rich color in the image. Tested with a family of four, older couples, three friends, and a father and son.
+
+**Model:** GPT Image 2.6
+
+```text
+Sweater: a cherry-red ribbed turtleneck. Backdrop: a pale sage-grey painted canvas backdrop. Turn the photo I upload into a Christmas portrait made in a photo studio, the kind a family sends as its Christmas card. Keep everyone from my photo as they are: the same faces, ages, skin tones, hairstyles and builds, and the same number of people; everyone is an adult. Everyone now wears the sweater above, the same knit in the same colour, with plain dark trousers or skirts. They are arranged as a composed but relaxed group: one or two seated on a low wooden bench, the others standing behind or beside them, heads at different heights in a loose triangle, everyone touching someone, filling about seventy percent of the frame. Behind them is the backdrop above, and to one side stands a single small real fir tree with plain warm-white lights and no ornaments. Light: a large soft key light from the front left with gentle fill, faces evenly lit, one clean catchlight in each eye, soft shadows on the backdrop. Natural skin with pores and smile lines, no smoothing. One person is mid-laugh, the rest smile at the camera. Calm, modern editorial colour: the sweater colour is the only strong colour in the picture, everything else is soft and neutral. Fine grain. Avoid: text, logos, sweater motifs or patterns, matching pyjamas, props in hands, plastic skin.
+```
+
+### [Christmas portrait on a snowy street](https://prompix.ai/prompts/fp-christmas-snow-street-walk)
+
+<a href="https://prompix.ai/prompts/fp-christmas-snow-street-walk"><img src="https://api.prompix.ai/media/w480/f0172e23e2528c62cc17897a396af93945c349f974807c040d1bfee769ee43a2.jpg" alt="Christmas portrait on a snowy street" width="360"></a>
+
+Change the opening street and coats, then upload a photo of two people to use: they walk arm in arm on a snowy Christmas night, with a telephoto lens compressing the streetlights and strings of lights behind them. The image is mostly deep blue, with warm yellow only on the lights and faces. Tested with couples, older couples, two friends, and a father and son.
+
+**Model:** Nano Banana 2.1
+
+```text
+Street: a narrow old-town lane of timber-framed houses. Coats: a camel wool coat and a charcoal peacoat. Turn the photo I upload into a Christmas night photo of the two people in it walking arm in arm toward the camera down the street above while snow falls. Keep both people as they are: the same faces, ages, skin tones and hairstyles; both are adults. Dress them in the coats above, with scarves. Shot from about forty metres away at eye level on a 300 mm telephoto lens, so the street is compressed: the lamps, the strings of lights and the house fronts behind them look stacked close together and much larger than they would up close. The two of them fill the lower half of the frame, from the knees up, sharp, looking at each other and laughing, not posing. The street behind them compresses into soft layers: warm yellow street lamps, strings of Christmas lights hung across the street overhead, lit windows, all out of focus, with any signs too blurred to read. Snowflakes near the lens are large soft blurs; the flakes around the couple are small bright streaks caught in the lamp light. Fresh snow on the ground, on their shoulders and in their hair. Colour: it is fully night; deep inky blue is the main colour of the picture, in the sky, the shadows and the snow, and warm amber appears only in the lamps, the windows and on their faces, with one red accent from a scarf. Film grain, a soft glow around the brightest lamps. Avoid: readable text, logos, cars in the foreground, fog, a posed look into the camera.
+```
+
+### [Direct-flash snapshot by the Christmas tree](https://prompix.ai/prompts/fp-christmas-tree-flash-snapshot)
+
+<a href="https://prompix.ai/prompts/fp-christmas-tree-flash-snapshot"><img src="https://api.prompix.ai/media/w480/d5149461e46f3fa174bbd24af2c93e6e06aa9879f7522311fcb58a280f353819.jpg" alt="Direct-flash snapshot by the Christmas tree" width="360"></a>
+
+Change the opening outfits, things held in their hands, and date stamp, then upload a photo to use: the people in the photo are placed beside a Christmas tree in a dark room, their faces lit by a point-and-shoot camera's direct flash, with a hard shadow on the wall and an orange date stamp in the corner. Tested with a young woman, a bearded man, a woman in her sixties, and an older couple.
+
+**Model:** GPT Image 2.6
+
+```text
+Outfit: an oversized cream cable-knit sweater and a gold paper crown. In hand: a mug of hot chocolate with a melting marshmallow. Date stamp: 26 12 24. Turn the photo I upload into a Christmas Eve snapshot taken next to the tree with a small point-and-shoot camera and its built-in flash. Keep the person or people from my photo exactly as they are: the same faces, ages, skin tones, hairstyles and builds; everyone is an adult. Dress them in the outfit above and put the thing above in their hands. They stand right beside a real, slightly lopsided Christmas tree in a dark living room at night, half-body, filling about two thirds of the frame, looking into the lens mid-laugh. Someone else is holding the camera about two metres away; it is not a selfie, and both of their hands stay close to their body. The flash is the whole look. Faces and the front of the clothes are bright and a little overexposed, with a shine on the forehead and nose, and a crisp dark shadow of them sits on the wall just behind, offset a little to one side. The light falls off fast: only the branches nearest them are lit, the room behind goes almost black, and the tree's warm string lights show as small sharp points, not soft bokeh balls. Glass baubles and tinsel close to the flash throw small hard white highlights. Warm consumer colour film with a slight green tint in the shadows, visible grain, deep blacks, a little motion blur on one hand. A small orange seven-segment date stamp in the bottom right corner shows only the digits and spaces of the date stamp above, exactly as written. No other text. Avoid: studio lighting, glowing bokeh orbs, a perfect symmetrical tree, extra people, logos.
+```
+
+### [A pet in a Christmas stocking](https://prompix.ai/prompts/fp-pet-in-christmas-stocking)
+
+<a href="https://prompix.ai/prompts/fp-pet-in-christmas-stocking"><img src="https://api.prompix.ai/media/w480/266383b2902d23aed188ea75f8315093e9576ed0886c85b84963c33d9d41593f.jpg" alt="A pet in a Christmas stocking" width="360"></a>
+
+Change the opening name and stocking style, then upload a pet photo to use: the pet peeks out of a large hand-knitted Christmas stocking hanging above a fireplace, with its front paws resting on the edge. Its name is embroidered on the cuff in red cross-stitch. Tested with a corgi, a tabby cat, a lop-eared rabbit, and an old black dog.
+
+**Model:** GPT Image 2.6
+
+```text
+Name on the stocking: "MOCHI". Stocking: a red stocking with a white snowflake band. Turn the pet in the photo I upload into a Christmas portrait: the same animal, with the same breed, markings, colours and eyes, peeking out of the top of a huge hand-knitted Christmas stocking that hangs from a mantelpiece. Only its head and front paws show above the stocking's thick white cuff, with the paws resting on the cuff. The stocking is the one above, in chunky wool with visible stitches and a few loose fibres, and the cuff has the name above stitched across it in red cross-stitch capital letters, spelled exactly as written. Close framing: the stocking and the pet fill most of the frame, with the mantel edge at the top carrying a garland of real pine branches and three small brass bells. Warm firelight comes from below left and soft window light from the right, putting a glow along the edges of the fur. Behind, a dim warm room with tiny out-of-focus tree lights. Shot on a full-frame camera with an 85 mm lens, shallow depth of field, the eyes sharp, natural fur texture, light film grain. Avoid: any other text, people, cartoon eyes, a Santa hat on the pet, logos.
+```
+
 ### [A Florist’s Year in Polaroids](https://prompix.ai/prompts/fp-florist-polaroid-wall)
 
 <a href="https://prompix.ai/prompts/fp-florist-polaroid-wall"><img src="https://api.prompix.ai/media/w480/7f9fd713de19eadc4ba34d914cd7abcf6f05618feaa16f02e3057dd6386ccd1b.jpg" alt="A Florist’s Year in Polaroids" width="360"></a>
@@ -521,6 +605,30 @@ A lighting study that shows Rembrandt lighting in one picture: a portrait of an 
 
 ## Posters
 
+### [Your city's Christmas woodcut card](https://prompix.ai/prompts/fp-christmas-linocut-town-card)
+
+<a href="https://prompix.ai/prompts/fp-christmas-linocut-town-card"><img src="https://api.prompix.ai/media/w480/b1611d0cc09ca1dd98b5b8a64dab51385b300f4746051e71933409d3ff9ac37f.jpg" alt="Your city's Christmas woodcut card" width="360"></a>
+
+Change the opening location, greeting, and ink colors to use: a handmade, two-color block-printed Christmas card, with the city on a snowy night, carved lines, snowflakes left unprinted, and a line of bold carved lettering at the bottom. Tested with Amsterdam, Shimla, a New England harbor town, and Kyoto.
+
+**Model:** GPT Image 2.6
+
+```text
+Place: Amsterdam: a canal lined with tall narrow gabled houses and a humped bridge. Greeting: "MERRY CHRISTMAS FROM AMSTERDAM". Ink: deep red. A hand-printed two-colour linocut Christmas card on thick cream paper, shown flat and filling the whole frame. The picture is the place above on a snowy Christmas night, carved in bold simple shapes: rooftops, windows and the shapes that make this place recognisable, a large moon or star above, falling snow cut as small white chips. The first colour is the ink above, printed solid with the grainy, slightly uneven coverage of a hand-inked block; the second is black for the outlines and the darkest areas. Lit windows and the snow are the bare paper showing through. The carving marks are part of the picture: parallel gouge lines in the sky, chisel-cut edges on every shape, small accidental chips. Along the bottom, the greeting above is carved in chunky hand-cut capital letters in black, slightly uneven in height, spelled exactly as written with no quotation marks. A thin carved border runs around the whole image with a small gap in one corner. Avoid: any other text, gradients, digital clean edges, photographic detail, glitter, logos.
+```
+
+### [A handwritten Christmas card](https://prompix.ai/prompts/fp-christmas-photo-card-hand-lettering)
+
+<a href="https://prompix.ai/prompts/fp-christmas-photo-card-hand-lettering"><img src="https://api.prompix.ai/media/w480/4ccd7358127ae94704682c3afe0724298fa29c53ad5002b95b14589e70dbfe35.jpg" alt="A handwritten Christmas card" width="360"></a>
+
+Change the opening greeting, sign-off, and ink colors, then upload a photo to use: the photo becomes a two-color halftone print, overlaid with a line of white brush-written greeting and a handwritten sign-off, like a carefully printed Christmas card. Tested with two friends, a family of four, an older person and a dog, and one person alone; every word was spelled correctly.
+
+**Model:** GPT Image 2.6
+
+```text
+Greeting: "Merry Christmas from the Okafors". Signature: "Ada, Kola, Tobi & Zee". Ink: deep cranberry red. Turn the photo I upload into the front of a printed Christmas card, shown flat and filling the whole frame edge to edge, with no table or surroundings. Keep the people and animals from my photo recognisable: the same faces, ages, skin tones, hairstyles and poses; every person is an adult. The photo is reprinted as a two-colour print on thick off-white cotton paper: the ink above for the shadows and mid-tones, and the warm paper colour for the highlights, with a fine visible halftone dot and a slight misregistration at the edges. It fills the upper three quarters of the card and is cropped close around the people. Across the lower part, overlapping the bottom edge of the photo, the greeting above is hand-lettered in large brush script in warm white gouache with an outline in the ink colour, with real brush texture: thick downstrokes, thin upstrokes, dry-brush gaps at the ends of strokes. Below it, small and hand-written in fine pen in the ink colour, the signature above. Spell both exactly as written, with no quotation marks. A few small hand-drawn stars and one sprig of holly in the ink colour sit around the lettering. Avoid: any other text, glitter, gold foil, photographic colour, a perspective view of the card, logos.
+```
+
 ### [Arcade Fighting Game Showdown](https://prompix.ai/prompts/fp-arcade-versus-screen)
 
 <a href="https://prompix.ai/prompts/fp-arcade-versus-screen"><img src="https://api.prompix.ai/media/w480/155253befb5dc56e5f6f3c2662219b1d5ae1ff0e77828c2a23d4b1d71a4d7c99.jpg" alt="Arcade Fighting Game Showdown" width="360"></a>
@@ -661,26 +769,6 @@ A vertical city poster for Quanzhou, in a multicolor woodblock print style, prin
 
 </details>
 
-### [Snowy River in characters](https://prompix.ai/prompts/fp-river-snow-calligraphy)
-
-<a href="https://prompix.ai/prompts/fp-river-snow-calligraphy"><img src="https://api.prompix.ai/media/w480/9084fecf7e430c22af4e9c604b3739a6473c27e0b3eac97a660af1755b328347.jpg" alt="Snowy River in characters" width="360"></a>
-
-The twenty characters of Liu Zongyuan’s “River Snow” are arranged into a snowy scene: “a thousand mountains” are distant peaks; “birds fly no more” are scattered across the sky; “no human traces on ten thousand paths” forms a small trail; and “alone fishing in the cold river snow” is in the darkest ink. The same approach works with any landscape poem.
-
-**Model:** GPT Image 2.6
-
-```text
-A vertical text painting on white rice paper, with generous empty space. The twenty characters of Liu Zongyuan’s “River Snow,” 「千山鸟飞绝，万径人踪灭。孤舟蓑笠翁，独钓寒江雪」, are written in regular script with varying shades of ink. The size and placement of the characters form a snowy scene: at the top, 「千山」 is written very large and faintly, like distant mountains; the three characters 「鸟飞绝」 are tiny, scattered across the sky; the five characters 「万径人踪灭」 form a slanting little path in the middle; beside 「孤舟蓑笠翁」, draw a tiny flat-bottomed boat and a fisherman wearing a straw raincoat; at the very bottom, 「独钓寒江雪」 is in the darkest ink. Only these twenty characters and that little boat appear in the image; no other text. Use Simplified Chinese for all text and copy it exactly character by character.
-```
-
-<details><summary>Original prompt (中文)</summary>
-
-```text
-一幅竖版的文字画，白色宣纸底，大面积留白。柳宗元《江雪》的二十个字「千山鸟飞绝，万径人踪灭。孤舟蓑笠翁，独钓寒江雪」用浓淡不同的墨色楷书书写，字的大小和位置组成一幅雪景：上方「千山」两个字写得很大很淡，像远山；「鸟飞绝」三个字很小，散在天空里；中部「万径人踪灭」五个字排成一条斜斜的小路；下方「孤舟蓑笠翁」旁边画一叶极小的扁舟和一个披蓑衣的渔翁；最下方「独钓寒江雪」墨色最浓。画面上只有这二十个字和那一叶小舟，没有其他文字。全部用简体字，逐字照写。
-```
-
-</details>
-
 ### [Six winter seal stamps](https://prompix.ai/prompts/fp-six-winter-seals)
 
 <a href="https://prompix.ai/prompts/fp-six-winter-seals"><img src="https://api.prompix.ai/media/w480/a059f50e4f8dcbccc67eb8b06d595fd93b620949772eb0e6cb6eb8bfc9062dfd.jpg" alt="Six winter seal stamps" width="360"></a>
@@ -701,22 +789,140 @@ A sheet of ivory paper flecked with gold, stamped with six square vermilion leis
 
 </details>
 
-### [Hard-seat train ticket from winter solstice to spring equinox](https://prompix.ai/prompts/fp-solstice-to-equinox-ticket)
+## Photo editing
 
-<a href="https://prompix.ai/prompts/fp-solstice-to-equinox-ticket"><img src="https://api.prompix.ai/media/w480/08302fe9778c9394aa940344940e0ae07a2ac17391c5677888a71afc04261d9d.jpg" alt="Hard-seat train ticket from winter solstice to spring equinox" width="360"></a>
+### [1980s family party flash photo](https://prompix.ai/prompts/fp-1980s-house-party-flash-snapshot)
 
-An old-fashioned stiff cardboard train ticket: winter solstice to spring equinox, an eighty-one-day journey, train number 0081, fare: a bowl of hot soup. Swap in any two solar terms or stages of life.
+<a href="https://prompix.ai/prompts/fp-1980s-house-party-flash-snapshot"><img src="https://api.prompix.ai/media/w480/95fdb5c18a8858ed1ae4a6bd2e44a67f4ac04f58f9dc01cc8f19376ead435c9e.jpg" alt="1980s family party flash photo" width="360"></a>
 
-**Model:** Qwen Image 3.0 Pro
+Change the opening party and date stamp, then upload a group photo to use: the people in the photo wear 1980s party outfits and squeeze into a wood-paneled living room, with direct flash, red-eye, hard shadows on the wall, people dancing and streamers in the background, and an orange date in the lower right corner. Tested with three friends, two friends, couples, and a family of four.
+
+**Model:** GPT Image 2.6
 
 ```text
-An old-fashioned stiff cardboard train ticket, landscape format, photographed close-up lying flat on an old wooden table in soft sidelight. The ticket has a pale green printed pattern and black letterpress, in an 1980s layout style. Ticket text: at the top, 「硬座客票」; in the centre, large text 「冬至 → 春分」; below it, one line 「全程 九九八十一天」; at lower left, 「车次 0081」; at lower right, 「票价 一碗热汤」. A round punch hole is on the left side of the ticket, with slightly worn, yellowed edges; the corner of an old knitted glove peeks out beside it. Use Simplified Chinese for all text and copy it exactly character by character; no other text.
+Party: a birthday party in a small city apartment. Date stamp: 85 06 14. Turn the photo I upload into a flash snapshot from a 1980s house party, the party above, taken on a small automatic film camera. Keep the people from my photo recognisable: the same faces, ages, skin tones and builds, in the same positions relative to each other; everyone is an adult. Restyle them in 1980s party clothes and hair: oversized blazers with pushed-up sleeves, neon windbreakers, crimped or teased hair, big earrings, a loosened skinny tie. They are squeezed together in the middle of a crowded wood-panelled living room, mid-laugh, one holding a paper cup up, one caught mid-blink. The on-camera flash makes them bright and slightly overexposed, with red-tinted eyes and hard black shadows on the panelling right behind them; the room falls off into dim brown and orange, where other partygoers dance in a blur, a paper streamer hangs from the ceiling, and a big silver cassette player sits on a shelf. Colour: warm, slightly yellow-green consumer print film, crushed shadows, coarse grain, the frame slightly tilted. A small orange seven-segment date stamp in the bottom right corner reads the date stamp above, exactly as written. No other text. Avoid: logos, brand names, modern phones, perfect composition, children.
+```
+
+### [1980s Indian movie still](https://prompix.ai/prompts/fp-1980s-indian-movie-still)
+
+<a href="https://prompix.ai/prompts/fp-1980s-indian-movie-still"><img src="https://api.prompix.ai/media/w480/9f012647cf047b92339be108557c434d62aad3ee90350f36c46209977d89499e.jpg" alt="1980s Indian movie still" width="360"></a>
+
+Change the opening scene and outfit, then upload a photo to use: the person in the photo becomes the lead in an 1980s Indian movie, in a widescreen frame with saturated yet faded warm film, a soft glow, grain, and a single vertical scratch. Tested with a mountain road in the rain, a duet dancing in a rapeseed field, a mother on a stormy night, and a nighttime village fair.
+
+**Model:** GPT Image 2.6
+
+```text
+Scene: a romantic duet in a meadow of yellow mustard flowers below snowy mountains, the two of them running toward each other. Costume: for her a chiffon saree in bright magenta, for him a cream cable-knit sweater and grey trousers. Turn the photo I upload into a still frame from a 1980s Indian movie, as if the person or people in it were its stars in the scene above. Keep everyone from my photo recognisable: the same faces, ages, skin tones and builds; everyone is an adult. Dress and style them in the costume above, with the hair and make-up of 1980s Indian cinema: voluminous blow-dried hair and strong kohl-lined eyes, or a thick moustache and side-swept hair. Framed like a cinema frame in a wide 16:9 picture: a medium shot, slightly off-centre, caught in a dramatic moment of the scene, turned three-quarters toward the camera with an intense, heartfelt expression. The look of the film print: saturated, warm colour stock that has started to fade, reds and oranges glowing, skin golden, shadows drifting toward magenta and teal; soft focus with a gentle glow around highlights; coarse film grain, a few dust specks and one faint vertical scratch; slightly crushed blacks. Avoid: subtitles, any text or titles, logos, real actors' faces, modern digital sharpness, revealing clothes.
+```
+
+### [1980s portrait by a new car](https://prompix.ai/prompts/fp-1980s-new-car-snapshot)
+
+<a href="https://prompix.ai/prompts/fp-1980s-new-car-snapshot"><img src="https://api.prompix.ai/media/w480/2b7ae085853d4f03c86b567e6157543a6c177316b1aa43dfb168c868662b4b7e.jpg" alt="1980s portrait by a new car" width="360"></a>
+
+Change the opening car and location, then upload a photo of two people to use: they wear 1980s floral shirts and high-waisted pants, standing beside their new car and squinting as they smile. Hard midday light and rounded-corner photo paper faded to orange and magenta make it look like a print pulled from a family album. Tested with Indian fathers and sons, American fathers and sons, two friends, and couples.
+
+**Model:** GPT Image 2.6
+
+```text
+Car: a small boxy white 1980s hatchback with chrome bumpers. Place: a quiet small-town street in India with a pink-washed house and a neem tree. Turn the photo I upload into a 1980s family snapshot of the two people in it standing proudly beside their new car. Keep both people recognisable: the same faces, ages, skin tones and builds, standing in the same order; both are adults. Restyle them in everyday 1980s clothes and hair: short-sleeved patterned shirts tucked into high-waisted trousers, a thin belt, aviator glasses, a feathered haircut or a thick moustache. They stand side by side next to the car above, one with a hand resting on its roof, both smiling with a squint in the sun, full-length, the car filling the right half of the frame. The place above is behind them. Harsh midday sun from high up: short dark shadows under the eyes and chins, bright paintwork with hard reflections, a hard shadow of the car on the ground. The photo is a real 1980s colour print with a thin white border and rounded corners: colours faded toward warm orange and magenta, blue sky gone pale cyan, soft focus, coarse grain, a slight tilt as if taken by a relative. Avoid: brand badges or logos on the car, readable number plates, any text, modern cars.
+```
+
+### [Before Restoration, After Restoration](https://prompix.ai/prompts/fp-restoration-before-after)
+
+<a href="https://prompix.ai/prompts/fp-restoration-before-after"><img src="https://api.prompix.ai/media/w480/72509ee137822a036155aa19d5bef14afa1c9371009aada679ce9cf98bf1f03b.jpg" alt="Before Restoration, After Restoration" width="360"></a>
+
+Change the subject of the painting and the two signs at the start to use: two paintings hung side by side on a museum wall under spotlights—a “before restoration” 18th-century oil painting and an “after restoration” version ruined by an overenthusiastic amateur. The ruined face has eyes set too far apart and two round spots of blush, but it is painted with great care. Four paintings have been verified: a Pomeranian, an aristocrat, a ram, and a noblewoman holding a cat.
+
+**Model:** GPT Image 2.6
+
+```text
+Subject: a nobleman in a powdered wig, a blue velvet coat and a lace cravat, one hand resting on a walking cane. Labels: left "BEFORE, 1764", right "AFTER, 2026". A photo of a museum gallery wall where two oil paintings hang side by side at the same height in matching carved gilt frames. Left: the original, an 18th-century portrait of the subject above, finely painted in thin glazes, soft light from the left, fine crackle in the old varnish, dignified and beautiful. Right: the very same canvas after an enthusiastic amateur restoration: the same composition, frame, background, clothing and pose, but the face has been repainted by a well-meaning beginner, with eyes slightly too far apart and uneven, a cheerful wobbly smile, flat round pink cheeks and simplified features in shiny fresh paint over the old surface. It is clumsy but endearing and clearly painted with care, never creepy or ugly. Under each painting hangs a small cream museum label with only the label text given above, left label under the left painting and right label under the right one. Dark green gallery wall, warm picture lights above each frame, shot straight on, the two paintings filling more than 80% of the frame. Not a copy of any existing painting. Avoid: religious images, real people, horror, other text.
+```
+
+### [Turn a Photo into a Dunhuang Mural](https://prompix.ai/prompts/fp-dunhuang-photo-mural)
+
+<a href="https://prompix.ai/prompts/fp-dunhuang-photo-mural"><img src="https://api.prompix.ai/media/w480/a9c3c088344b71b83a0ae55f866d048eb0db1c2d93bbbdf6b21b4b4271c670da.jpg" alt="Turn a Photo into a Dunhuang Mural" width="360"></a>
+
+Upload any photo to use this (no prompt changes needed): the people and setting in the photo are painted into a Tang-dynasty Dunhuang mural as donor figures, with halos behind their heads, flying apsaras in the sky, lotus bricks on the ground, and peeling, flaking plaster. Four photos have been verified: a noodle stall, an elderly person with a dog, two friends, and a hot pot meal.
+
+**Model:** GPT Image 2.6
+
+```text
+Paint the photo I uploaded as a Tang-dynasty-style cave mural from the Mogao Caves at Dunhuang. The people and setting in the photo become donor figures and part of the mural’s story: keep people, animals, and objects in their original positions and poses on the earthen wall, preserving the people’s likenesses, hairstyles, and clothing colors from the photo, but paint their faces in Tang mural style: rounded faces, slender eyes and brows, vermilion shading on the forehead and cheeks, and a circular halo behind each person’s head. Turn garment edges into flowing ribbons and jeweled garlands. Two flying apsaras soar diagonally across the upper part of the image, the ground is painted as square lotus tiles, and empty areas are filled with scrollwork and small auspicious clouds. Technique: sketch in reddish earth pigment and outline with iron-wire lines; apply broad flat areas of mineral blue, mineral green, vermilion, reddish earth, ochre, and chalk white. Some lead white has oxidized to blackish brown. The wall bears a thousand years of age: pigment blisters and flakes away, exposing the grass-mud layer beneath, with several cracks. The entire mural fills the frame, with a faint beam of light illuminating the wall from the side. Avoid text, inscriptions, seals, modern fonts, digital flat-color effects, or the look of a photo collage.
 ```
 
 <details><summary>Original prompt (中文)</summary>
 
 ```text
-一张老式硬纸板火车票，横版，平放在旧木桌上微距拍摄，柔和的侧光。票面是淡绿色底纹，黑色铅字印刷，二十世纪八十年代的排版样式。票面文字：最上方「硬座客票」，中间大字「冬至 → 春分」，下面一行「全程 九九八十一天」，左下角「车次 0081」，右下角「票价 一碗热汤」。票面左侧有一个圆形打孔，边缘略有磨损发黄，旁边露出一只旧毛线手套的一角。全部文字用简体字，逐字照写，不要其他文字。
+把我上传的照片画成一铺敦煌莫高窟唐代风格的洞窟壁画，照片里的人和场景成了壁画里的供养人和故事：人、动物、物件都按照片里的位置和姿态画在土坯墙面上，人物保持照片里的长相、发型和衣服颜色，但开脸画成唐代壁画的样子：面庞圆润，细长的眉眼，额头和脸颊用朱砂晕染，头后有一圈圆形头光；衣服的边缘化成飘带和璎珞。画面上方有两身飞天斜斜飞过，地面画成莲花方砖，空处填满卷草纹和小朵祥云。画法：土红线起稿，铁线描勾线；大块平涂石青、石绿、朱砂、土红、赭石和白垩，部分铅白已经氧化成黑褐色。墙面有千年的痕迹：颜料起甲剥落，露出底下的草泥层，有几道裂缝。整面壁画占满画面，侧面一束微弱的光照着墙面。避免：文字、题记、印章、现代字体、数码平涂感、照片拼贴感。
+```
+
+</details>
+
+### [The Mascot's Off Duty](https://prompix.ai/prompts/fp-mascot-off-duty)
+
+<a href="https://prompix.ai/prompts/fp-mascot-off-duty"><img src="https://api.prompix.ai/media/w480/024b0feeb6c67df7725ee1b2cca8c9daebecb24a7b2cefbf107fc1524209feeb.jpg" alt="The Mascot's Off Duty" width="360"></a>
+
+Change the mascot, the person wearing it, and the location at the beginning to use this: the oversized head of an original mascot has been taken off and set aside, still smiling at the camera, while the person inside, drenched in sweat, drinks water. Four mascots have been verified: a persimmon, a milk carton, a steamed bun, and a cactus.
+
+**Model:** GPT Image 2.6
+
+```text
+Mascot: a round orange persimmon with a little green leaf cap, big smiling eyes and stubby arms. Wearer: a man in his fifties with a grey crew cut. Place: the loading bay behind a supermarket on a hot summer afternoon. A candid documentary photo of the person who wears this original mascot costume, on a break. They sit on an upturned crate, still wearing the big plush body and the huge padded feet, but the giant mascot head is off and resting on the crate next to them, its cheerful face looking straight at the camera, while the real person, sweaty hair stuck to their forehead, tired, drinks water through a straw and looks away. The head and the body are clearly the same original character, sewn from fabric and foam, with visible seams and a little wear. Natural light, 35mm lens, real textures, a quiet mood that is both funny and a little sad. Avoid: any existing mascot or cartoon character, brand logos, readable text, cigarettes.
+```
+
+### [Turn a Photo into a Memphis-Style Collage](https://prompix.ai/prompts/fp-memphis-photo-collage)
+
+<a href="https://prompix.ai/prompts/fp-memphis-photo-collage"><img src="https://api.prompix.ai/media/w480/ee400098f0e5d6d4852db0295e1bb0912911504d6c0bbca2257a0af4943d8827.jpg" alt="Turn a Photo into a Memphis-Style Collage" width="360"></a>
+
+Upload any photo to use this (no prompt changes needed): the photo is printed, cut into pieces, and pasted back in an offset arrangement, together with Memphis-style squiggles, semicircles, dots, and zigzag paper shapes, to create a handmade collage on a table. Four photos have been verified: a portrait, a street scene, a corgi, and a hot pot meal.
+
+**Model:** GPT Image 2.6
+
+```text
+Turn the photo I uploaded into a handmade postmodern collage in the 1980s Memphis spirit. The photo is printed, cut into five to seven irregular pieces with scissors and a zigzag craft blade, and glued back slightly out of place on a sheet of terrazzo-patterned paper, so the scene is still readable but shifted. Around and on top of it are cut-paper Memphis shapes: a black-and-white squiggle, a pink semicircle, a cobalt triangle, a yellow dotted grid, a mint wavy stripe and confetti dots, layered with small paper shadows; two of the photo pieces are overprinted with a flat halftone color. Shot from directly above on a desk, the collage fills more than 80% of the frame, with scissors, a glue stick and paper offcuts at the edges. The people and animals in the photo keep their faces, clothes and poses. Avoid: text, logos, digital vector graphics, neat symmetry, changing anyone's face.
+```
+
+### [Turn a Photo into a Hand-Painted Giant Billboard](https://prompix.ai/prompts/fp-photo-to-hand-painted-billboard)
+
+<a href="https://prompix.ai/prompts/fp-photo-to-hand-painted-billboard"><img src="https://api.prompix.ai/media/w480/bfca11ba3b6a4a343485f6114890670291c3761b2302b9797e46e01c842fa4d5.jpg" alt="Turn a Photo into a Hand-Painted Giant Billboard" width="360"></a>
+
+Upload any photo to use this (no prompt changes needed): your photo is hand-painted by a sign painter onto a giant street billboard, with the painter still standing on a scaffold to add the final brushstroke. The people’s appearance and clothing stay as they are in the photo. Four different photos have been verified.
+
+**Model:** GPT Image 2.6
+
+```text
+Turn the photo I uploaded into a giant hand-painted billboard. The exact scene of the photo, with the same people, faces, hairstyles, clothes and colors and the same composition, is painted by hand in bold, flat acrylic brushwork on a huge billboard high above a city street. A sign painter in paint-stained overalls stands on the scaffolding in front of it, holding a long brush and adding the last highlight; paint cans and rollers sit on the scaffold boards. Seen from street level looking up, late-afternoon light, and the billboard fills more than 80% of the frame. The picture is clearly painted, with visible brushstrokes and slightly simplified shapes, but the people are still clearly recognizable as the ones in the photo. Avoid: any text or slogans on the billboard, logos, a printed-photo look, changing the people's faces.
+```
+
+### [Age Your Photo into a Game Screenshot (GTA Style)](https://prompix.ai/prompts/fp-retro-3d-game-screenshot)
+
+<a href="https://prompix.ai/prompts/fp-retro-3d-game-screenshot"><img src="https://api.prompix.ai/media/w480/ad88f24c5a49382bf926f9b4aecad4c4a00094a89dcbe025f7247614359a3d98.jpg" alt="Age Your Photo into a Game Screenshot (GTA Style)" width="360"></a>
+
+Change the one-line mission prompt at the start, then upload a photo to use: the photo is transformed into a screenshot from an open-world 3D game from twenty years ago, with low polygons, blurry textures, distant fog, CRT scan lines, a small minimap in the lower left, and a one-line everyday mission at the bottom. Four photos have been verified.
+
+**Model:** GPT Image 2.6
+
+```text
+Turn the photo I uploaded into a screenshot from an open-world 3D video game made around 2002. Keep the same scene, the same people, their clothes and the same composition, but rebuild everything with low-polygon models: blocky hands, simple faces painted onto flat textures, cars and furniture made of a few boxes, and blurry low-resolution textures stretched across walls and the road. Near things are clear and the distance fades into a pale yellow-green fog; the colors lean warm yellow-green; edges are jagged with no anti-aliasing; it is a 4:3 picture captured from a CRT television, with faint scanlines and a little color bleeding. In the bottom-left corner is a small round minimap with a simple street grid and a blip; at the bottom center one line of plain white subtitle text with a thin black outline reads: Walk the dog home before the next downpour. No other text. Avoid: any game's name or logo, real game characters, real brands, weapons, violence, modern graphics.
+```
+
+### [Turn a Photo into a Snow Globe](https://prompix.ai/prompts/fp-photo-to-snow-globe)
+
+<a href="https://prompix.ai/prompts/fp-photo-to-snow-globe"><img src="https://api.prompix.ai/media/w480/865ecb7751d275d777975a04ccad0c68b3638d6d33bd7d98621c56457ca237a1.jpg" alt="Turn a Photo into a Snow Globe" width="360"></a>
+
+Upload any photo to use this (no prompt changes needed): the scene, people, and objects in the photo are faithfully recreated as miniature models inside a snow globe, preserving their likenesses, clothing colors, and relative positions. Four different photos have been verified.
+
+**Model:** GPT Image 2.6
+
+```text
+Turn the photo I uploaded into a snow globe: recreate the scene in the photo as a three-dimensional miniature model inside a glass snow globe. Preserve all people, buildings, trees, cars, and objects in the photo, keeping their relative positions the same, only scaled down into handcrafted models. Keep the people’s likenesses, hairstyles, and clothing colors as in the photo. Fine snow is falling inside the glass globe, with a thin layer of snow covering the ground. The base is dark wood, and the globe has soft reflections and a single highlight. The whole image is a realistic product photo: dark background, warm side lighting, macro lens, shallow depth of field. Avoid text, logos, pasting the photo flat inside the globe, cartoon styling, or changing anyone’s appearance.
+```
+
+<details><summary>Original prompt (中文)</summary>
+
+```text
+把我上传的照片变成一个雪景球：照片里的场景被原样做成一个立体微缩模型，装在一个玻璃雪景球里。照片里有的人、建筑、树、车和物件都在，位置关系和照片一致，只是缩小成手工模型，人物的长相、发型和衣服颜色都保持照片里的样子。玻璃球里正飘着细雪，地面盖着一层薄雪。底座是深色木头，球面有柔和的反光和一道高光。整张是一张真实的产品照片：深色背景，暖光从侧面打来，微距，浅景深。避免：文字、标志、把照片平贴在球里、卡通化、改变人物长相。
 ```
 
 </details>
@@ -827,128 +1033,6 @@ Twelve tangerines arranged in a 3×4 grid on a grey stone counter, each peeled d
 A top-down editorial photograph of twelve tangerines arranged in a neat 3×4 grid on a pale stone surface, portrait format, each peeled a different way: one in a single long spiral, one opened like a flower with the peel as petals, one with only a ring removed around its middle, one with a star cut into the skin, one split into segments laid in a circle, one with a smiling face carved into the peel, one peeled with all the white pith left on like a woolly jumper, one still whole and untouched, and the rest in their own careful variations. Bright orange against cool grey, soft window light, short shadows, true-to-life textures, no text, no hands.
 ```
 
-## Photo editing
-
-### [Before Restoration, After Restoration](https://prompix.ai/prompts/fp-restoration-before-after)
-
-<a href="https://prompix.ai/prompts/fp-restoration-before-after"><img src="https://api.prompix.ai/media/w480/72509ee137822a036155aa19d5bef14afa1c9371009aada679ce9cf98bf1f03b.jpg" alt="Before Restoration, After Restoration" width="360"></a>
-
-Change the subject of the painting and the two signs at the start to use: two paintings hung side by side on a museum wall under spotlights—a “before restoration” 18th-century oil painting and an “after restoration” version ruined by an overenthusiastic amateur. The ruined face has eyes set too far apart and two round spots of blush, but it is painted with great care. Four paintings have been verified: a Pomeranian, an aristocrat, a ram, and a noblewoman holding a cat.
-
-**Model:** GPT Image 2.6
-
-```text
-Subject: a nobleman in a powdered wig, a blue velvet coat and a lace cravat, one hand resting on a walking cane. Labels: left "BEFORE, 1764", right "AFTER, 2026". A photo of a museum gallery wall where two oil paintings hang side by side at the same height in matching carved gilt frames. Left: the original, an 18th-century portrait of the subject above, finely painted in thin glazes, soft light from the left, fine crackle in the old varnish, dignified and beautiful. Right: the very same canvas after an enthusiastic amateur restoration: the same composition, frame, background, clothing and pose, but the face has been repainted by a well-meaning beginner, with eyes slightly too far apart and uneven, a cheerful wobbly smile, flat round pink cheeks and simplified features in shiny fresh paint over the old surface. It is clumsy but endearing and clearly painted with care, never creepy or ugly. Under each painting hangs a small cream museum label with only the label text given above, left label under the left painting and right label under the right one. Dark green gallery wall, warm picture lights above each frame, shot straight on, the two paintings filling more than 80% of the frame. Not a copy of any existing painting. Avoid: religious images, real people, horror, other text.
-```
-
-### [An Animated Frame from a VHS Tape](https://prompix.ai/prompts/fp-vhs-anime-frame)
-
-<a href="https://prompix.ai/prompts/fp-vhs-anime-frame"><img src="https://api.prompix.ai/media/w480/90ae752dddebd69ac8d27bf2a10a86f90bd1c4de28b7fc2577c2af87bb14211a.jpg" alt="An Animated Frame from a VHS Tape" width="360"></a>
-
-Change the subtitle at the beginning, then upload a photo to use this: the photo is redrawn as a frame from a television animation of the eighties or nineties, with cel-shaded characters, a gouache-painted background, VHS color bleed and tracking noise, and one line of white subtitles at the bottom. Four photos have been verified: a noodle stall, an elderly person with a dog, a corgi, and a man by a sports field.
-
-**Model:** GPT Image 2.6
-
-```text
-Subtitle 「老伙计，再走一圈就回家。」. Draw the photo I uploaded as a frame from a television animation of the eighties or nineties, like a still captured from an old videotape: keep the people, animals, and setting in the photo in their original positions and poses, with the same hairstyles and clothing colors, but redraw them as hand-drawn animation from that era. Characters have flat cel shading with only one hard-edged shadow and one highlight, and thin, even outlines. The background is hand-painted in gouache, with visible brushstrokes and paper texture, clearly distinct from the flat-shaded characters. Image texture: 4:3 aspect ratio, soft and blurry VHS quality, slight color bleed, a little red haloing, cyan-tinted shadows, a layer of film grain, and a horizontal band of tracking noise along the bottom. Center one line of white subtitles at the bottom of the image, with a black outline; use exactly the words inside the “ ” above, without quotation marks, character for character. Use Simplified Chinese throughout. Do not imitate any specific animation. Avoid any other text, station logos, timecodes, modern digital coloring, 3D, or characters and art styles from existing animations.
-```
-
-<details><summary>Original prompt (中文)</summary>
-
-```text
-字幕「老伙计，再走一圈就回家。」。把我上传的照片画成八九十年代电视动画里的一帧，像从一盘旧录像带上截下来的：照片里的人、动物和场景保持原来的位置、姿态、发型和衣服颜色，但重新画成那个年代的手绘动画。人物是赛璐璐平涂，只有一层硬阴影和一道高光，轮廓线细而均匀；背景是手绘水粉画，有笔触和纸纹，和人物的平涂明显分开。画面质感：4:3 画幅，录像带的软和糊，轻微的色彩溢出，红色有点晕，暗部偏青，一层胶片颗粒，底部有一条横向的磁迹噪点带。画面下方居中一行白色字幕，带黑色描边，就是上面「」里的字，不写引号，逐字照写，全部用简体字。不像任何一部具体的动画。避免：其他文字、台标、时间码、现代数码上色、3D、任何现有动画的角色和画风。
-```
-
-</details>
-
-### [Turn a Photo into a Dunhuang Mural](https://prompix.ai/prompts/fp-dunhuang-photo-mural)
-
-<a href="https://prompix.ai/prompts/fp-dunhuang-photo-mural"><img src="https://api.prompix.ai/media/w480/a9c3c088344b71b83a0ae55f866d048eb0db1c2d93bbbdf6b21b4b4271c670da.jpg" alt="Turn a Photo into a Dunhuang Mural" width="360"></a>
-
-Upload any photo to use this (no prompt changes needed): the people and setting in the photo are painted into a Tang-dynasty Dunhuang mural as donor figures, with halos behind their heads, flying apsaras in the sky, lotus bricks on the ground, and peeling, flaking plaster. Four photos have been verified: a noodle stall, an elderly person with a dog, two friends, and a hot pot meal.
-
-**Model:** GPT Image 2.6
-
-```text
-Paint the photo I uploaded as a Tang-dynasty-style cave mural from the Mogao Caves at Dunhuang. The people and setting in the photo become donor figures and part of the mural’s story: keep people, animals, and objects in their original positions and poses on the earthen wall, preserving the people’s likenesses, hairstyles, and clothing colors from the photo, but paint their faces in Tang mural style: rounded faces, slender eyes and brows, vermilion shading on the forehead and cheeks, and a circular halo behind each person’s head. Turn garment edges into flowing ribbons and jeweled garlands. Two flying apsaras soar diagonally across the upper part of the image, the ground is painted as square lotus tiles, and empty areas are filled with scrollwork and small auspicious clouds. Technique: sketch in reddish earth pigment and outline with iron-wire lines; apply broad flat areas of mineral blue, mineral green, vermilion, reddish earth, ochre, and chalk white. Some lead white has oxidized to blackish brown. The wall bears a thousand years of age: pigment blisters and flakes away, exposing the grass-mud layer beneath, with several cracks. The entire mural fills the frame, with a faint beam of light illuminating the wall from the side. Avoid text, inscriptions, seals, modern fonts, digital flat-color effects, or the look of a photo collage.
-```
-
-<details><summary>Original prompt (中文)</summary>
-
-```text
-把我上传的照片画成一铺敦煌莫高窟唐代风格的洞窟壁画，照片里的人和场景成了壁画里的供养人和故事：人、动物、物件都按照片里的位置和姿态画在土坯墙面上，人物保持照片里的长相、发型和衣服颜色，但开脸画成唐代壁画的样子：面庞圆润，细长的眉眼，额头和脸颊用朱砂晕染，头后有一圈圆形头光；衣服的边缘化成飘带和璎珞。画面上方有两身飞天斜斜飞过，地面画成莲花方砖，空处填满卷草纹和小朵祥云。画法：土红线起稿，铁线描勾线；大块平涂石青、石绿、朱砂、土红、赭石和白垩，部分铅白已经氧化成黑褐色。墙面有千年的痕迹：颜料起甲剥落，露出底下的草泥层，有几道裂缝。整面壁画占满画面，侧面一束微弱的光照着墙面。避免：文字、题记、印章、现代字体、数码平涂感、照片拼贴感。
-```
-
-</details>
-
-### [The Mascot's Off Duty](https://prompix.ai/prompts/fp-mascot-off-duty)
-
-<a href="https://prompix.ai/prompts/fp-mascot-off-duty"><img src="https://api.prompix.ai/media/w480/024b0feeb6c67df7725ee1b2cca8c9daebecb24a7b2cefbf107fc1524209feeb.jpg" alt="The Mascot's Off Duty" width="360"></a>
-
-Change the mascot, the person wearing it, and the location at the beginning to use this: the oversized head of an original mascot has been taken off and set aside, still smiling at the camera, while the person inside, drenched in sweat, drinks water. Four mascots have been verified: a persimmon, a milk carton, a steamed bun, and a cactus.
-
-**Model:** GPT Image 2.6
-
-```text
-Mascot: a round orange persimmon with a little green leaf cap, big smiling eyes and stubby arms. Wearer: a man in his fifties with a grey crew cut. Place: the loading bay behind a supermarket on a hot summer afternoon. A candid documentary photo of the person who wears this original mascot costume, on a break. They sit on an upturned crate, still wearing the big plush body and the huge padded feet, but the giant mascot head is off and resting on the crate next to them, its cheerful face looking straight at the camera, while the real person, sweaty hair stuck to their forehead, tired, drinks water through a straw and looks away. The head and the body are clearly the same original character, sewn from fabric and foam, with visible seams and a little wear. Natural light, 35mm lens, real textures, a quiet mood that is both funny and a little sad. Avoid: any existing mascot or cartoon character, brand logos, readable text, cigarettes.
-```
-
-### [Turn a Photo into a Memphis-Style Collage](https://prompix.ai/prompts/fp-memphis-photo-collage)
-
-<a href="https://prompix.ai/prompts/fp-memphis-photo-collage"><img src="https://api.prompix.ai/media/w480/ee400098f0e5d6d4852db0295e1bb0912911504d6c0bbca2257a0af4943d8827.jpg" alt="Turn a Photo into a Memphis-Style Collage" width="360"></a>
-
-Upload any photo to use this (no prompt changes needed): the photo is printed, cut into pieces, and pasted back in an offset arrangement, together with Memphis-style squiggles, semicircles, dots, and zigzag paper shapes, to create a handmade collage on a table. Four photos have been verified: a portrait, a street scene, a corgi, and a hot pot meal.
-
-**Model:** GPT Image 2.6
-
-```text
-Turn the photo I uploaded into a handmade postmodern collage in the 1980s Memphis spirit. The photo is printed, cut into five to seven irregular pieces with scissors and a zigzag craft blade, and glued back slightly out of place on a sheet of terrazzo-patterned paper, so the scene is still readable but shifted. Around and on top of it are cut-paper Memphis shapes: a black-and-white squiggle, a pink semicircle, a cobalt triangle, a yellow dotted grid, a mint wavy stripe and confetti dots, layered with small paper shadows; two of the photo pieces are overprinted with a flat halftone color. Shot from directly above on a desk, the collage fills more than 80% of the frame, with scissors, a glue stick and paper offcuts at the edges. The people and animals in the photo keep their faces, clothes and poses. Avoid: text, logos, digital vector graphics, neat symmetry, changing anyone's face.
-```
-
-### [Turn a Photo into a Hand-Painted Giant Billboard](https://prompix.ai/prompts/fp-photo-to-hand-painted-billboard)
-
-<a href="https://prompix.ai/prompts/fp-photo-to-hand-painted-billboard"><img src="https://api.prompix.ai/media/w480/bfca11ba3b6a4a343485f6114890670291c3761b2302b9797e46e01c842fa4d5.jpg" alt="Turn a Photo into a Hand-Painted Giant Billboard" width="360"></a>
-
-Upload any photo to use this (no prompt changes needed): your photo is hand-painted by a sign painter onto a giant street billboard, with the painter still standing on a scaffold to add the final brushstroke. The people’s appearance and clothing stay as they are in the photo. Four different photos have been verified.
-
-**Model:** GPT Image 2.6
-
-```text
-Turn the photo I uploaded into a giant hand-painted billboard. The exact scene of the photo, with the same people, faces, hairstyles, clothes and colors and the same composition, is painted by hand in bold, flat acrylic brushwork on a huge billboard high above a city street. A sign painter in paint-stained overalls stands on the scaffolding in front of it, holding a long brush and adding the last highlight; paint cans and rollers sit on the scaffold boards. Seen from street level looking up, late-afternoon light, and the billboard fills more than 80% of the frame. The picture is clearly painted, with visible brushstrokes and slightly simplified shapes, but the people are still clearly recognizable as the ones in the photo. Avoid: any text or slogans on the billboard, logos, a printed-photo look, changing the people's faces.
-```
-
-### [Age Your Photo into a Game Screenshot (GTA Style)](https://prompix.ai/prompts/fp-retro-3d-game-screenshot)
-
-<a href="https://prompix.ai/prompts/fp-retro-3d-game-screenshot"><img src="https://api.prompix.ai/media/w480/ad88f24c5a49382bf926f9b4aecad4c4a00094a89dcbe025f7247614359a3d98.jpg" alt="Age Your Photo into a Game Screenshot (GTA Style)" width="360"></a>
-
-Change the one-line mission prompt at the start, then upload a photo to use: the photo is transformed into a screenshot from an open-world 3D game from twenty years ago, with low polygons, blurry textures, distant fog, CRT scan lines, a small minimap in the lower left, and a one-line everyday mission at the bottom. Four photos have been verified.
-
-**Model:** GPT Image 2.6
-
-```text
-Turn the photo I uploaded into a screenshot from an open-world 3D video game made around 2002. Keep the same scene, the same people, their clothes and the same composition, but rebuild everything with low-polygon models: blocky hands, simple faces painted onto flat textures, cars and furniture made of a few boxes, and blurry low-resolution textures stretched across walls and the road. Near things are clear and the distance fades into a pale yellow-green fog; the colors lean warm yellow-green; edges are jagged with no anti-aliasing; it is a 4:3 picture captured from a CRT television, with faint scanlines and a little color bleeding. In the bottom-left corner is a small round minimap with a simple street grid and a blip; at the bottom center one line of plain white subtitle text with a thin black outline reads: Walk the dog home before the next downpour. No other text. Avoid: any game's name or logo, real game characters, real brands, weapons, violence, modern graphics.
-```
-
-### [Turn a Photo into a Snow Globe](https://prompix.ai/prompts/fp-photo-to-snow-globe)
-
-<a href="https://prompix.ai/prompts/fp-photo-to-snow-globe"><img src="https://api.prompix.ai/media/w480/865ecb7751d275d777975a04ccad0c68b3638d6d33bd7d98621c56457ca237a1.jpg" alt="Turn a Photo into a Snow Globe" width="360"></a>
-
-Upload any photo to use this (no prompt changes needed): the scene, people, and objects in the photo are faithfully recreated as miniature models inside a snow globe, preserving their likenesses, clothing colors, and relative positions. Four different photos have been verified.
-
-**Model:** GPT Image 2.6
-
-```text
-Turn the photo I uploaded into a snow globe: recreate the scene in the photo as a three-dimensional miniature model inside a glass snow globe. Preserve all people, buildings, trees, cars, and objects in the photo, keeping their relative positions the same, only scaled down into handcrafted models. Keep the people’s likenesses, hairstyles, and clothing colors as in the photo. Fine snow is falling inside the glass globe, with a thin layer of snow covering the ground. The base is dark wood, and the globe has soft reflections and a single highlight. The whole image is a realistic product photo: dark background, warm side lighting, macro lens, shallow depth of field. Avoid text, logos, pasting the photo flat inside the globe, cartoon styling, or changing anyone’s appearance.
-```
-
-<details><summary>Original prompt (中文)</summary>
-
-```text
-把我上传的照片变成一个雪景球：照片里的场景被原样做成一个立体微缩模型，装在一个玻璃雪景球里。照片里有的人、建筑、树、车和物件都在，位置关系和照片一致，只是缩小成手工模型，人物的长相、发型和衣服颜色都保持照片里的样子。玻璃球里正飘着细雪，地面盖着一层薄雪。底座是深色木头，球面有柔和的反光和一道高光。整张是一张真实的产品照片：深色背景，暖光从侧面打来，微距，浅景深。避免：文字、标志、把照片平贴在球里、卡通化、改变人物长相。
-```
-
-</details>
-
 ## Product
 
 ### [A Drawer of Buttons Sorted by Color](https://prompix.ai/prompts/fp-button-drawer-gradient)
@@ -998,72 +1082,6 @@ Seven enamel pins attached to a felt pennant: a ferry, a sesame ring, a tulip te
 ```text
 Seven hard-enamel pin badges for Istanbul pinned onto a felt pennant, photographed from above on a deep teal wool background in soft daylight, portrait format. The pennant is cream felt with the word "ISTANBUL" in red appliqué capitals across it. The pins each have polished gold metal outlines and glossy flat enamel colour: a small white ferry with a red funnel, a ring of sesame bread, a tulip-shaped tea glass on a saucer, a sleeping ginger street cat, a round stone tower with a conical roof, a blue eye bead, and a seagull. Tiny reflections on the enamel, pins set at slightly different angles, soft shadows. Palette of teal, cream, red, cobalt and gold.
 ```
-
-## Characters
-
-### [Walking frames for a lantern-carrying moth](https://prompix.ai/prompts/fp-lantern-moth-sprites)
-
-<a href="https://prompix.ai/prompts/fp-lantern-moth-sprites"><img src="https://api.prompix.ai/media/w480/61deccd77585c50388b2934548779b0b70e0e419e33ae6f82e050c0a27bbfae0.jpg" alt="Walking frames for a lantern-carrying moth" width="360"></a>
-
-A sprite sheet for an original pixel-art character: a little moth carrying a paper lantern, with eight walking frames in each of four directions and an eight-colour palette on the right. Swap in a different character to mock up an indie game.
-
-**Model:** GPT Image 2.6
-
-```text
-A pixel art sprite sheet for an original game character, shown on a dark navy background with a faint grid, landscape format. The character is a small moth who carries a glowing paper lantern on a stick. Four rows of eight frames each, a full walk cycle facing down, left, right and up, every frame drawn at 32 by 32 pixels and scaled up with crisp hard pixel edges and no anti-aliasing. To the right, a palette strip of eight colour swatches: dusty brown, cream, pale lilac, deep navy, lantern orange, warm yellow, soft white, charcoal. At the top left, the label "LANTERN MOTH - WALK" in a small pixel font. Limited palette, clean silhouettes, the same proportions in every frame.
-```
-
-### [The Retired Carrier Pigeon Who Delivers Soup](https://prompix.ai/prompts/fp-margot-puppet-reference)
-
-<a href="https://prompix.ai/prompts/fp-margot-puppet-reference"><img src="https://api.prompix.ai/media/w480/b70ed93503d681e87bbb289afdc683c7787f6386cf9d7da4f5724173489a41b7.jpg" alt="The Retired Carrier Pigeon Who Delivers Soup" width="360"></a>
-
-A production reference sheet for a stop-motion puppet: four turnaround views on the top row, five interchangeable expression faces on the bottom row, with handwritten masking-tape labels. Change the character to create a new puppet design.
-
-**Model:** GPT Image 2.6
-
-```text
-Production reference sheet for an original stop-motion puppet, photographed on a pale grey seamless backdrop in soft, even studio light, landscape format. The character is Margot, a retired postal pigeon who now delivers soup: a plump felt-and-wool pigeon with a wire armature, a tiny knitted mustard scarf, a brass-buttoned navy waistcoat, and a small canvas satchel holding a lidded tin pot. Top row: four full-body turnaround views of the same puppet standing on small rig stands, labelled "FRONT", "3/4", "SIDE", "BACK". Bottom row: five interchangeable replacement faces lined up like specimens, labelled "CALM", "SURPRISED", "PROUD", "SLEEPY", "WORRIED". Every label is hand-lettered in black marker on a strip of masking tape, and the title "MARGOT · PUPPET REF" sits at the top left. Visible felt fibres, stitching and tiny fingerprints on the clay beak. Palette of dove grey, navy, mustard and cream.
-```
-
-### [Hedgehog baker who opens only at night](https://prompix.ai/prompts/fp-mrs-fennel-night-baker)
-
-<a href="https://prompix.ai/prompts/fp-mrs-fennel-night-baker"><img src="https://api.prompix.ai/media/w480/c4e64def885040b57df34e77b14e8600c4ca53bcf20844c4b541ee08992ddef8.jpg" alt="Hedgehog baker who opens only at night" width="360"></a>
-
-A picture-book character design sheet: an old hedgehog who runs a night bakery, with three views, four expressions, and three props, annotated by hand in watercolour and pencil. Change the character to make a new picture-book design sheet.
-
-**Model:** Nano Banana 2.1
-
-```text
-A watercolor character design sheet for a children's picture book, painted on warm white cold-press paper, landscape format. The original character is Mrs. Fennel, an elderly hedgehog who runs a bakery that only opens at night: round spectacles, a flour-dusted blue apron over a knitted cardigan, soft brown spines. Across the top, three full-body views: front, side and back. Below, four small head studies of her expressions: sleepy, proud, flustered and laughing. To the right, small studies of her props: a wooden peel with a round loaf, a brass bell and an oil lamp. Small pencil notes in handwriting beside the views: "front", "side", "back", "sleepy", "proud", "flustered", "laughing". Loose watercolour washes over soft pencil underdrawing, palette of warm brown, cornflower blue, cream and lamplight yellow.
-```
-
-<details><summary>Original prompt</summary>
-
-```text
-A watercolour character design sheet for a children's picture book, painted on warm white cold-press paper, landscape format. The original character is Mrs. Fennel, an elderly hedgehog who runs a bakery that only opens at night: round spectacles, a flour-dusted blue apron over a knitted cardigan, soft brown spines. Across the top, three full-body views: front, side and back. Below, four small head studies of her expressions: sleepy, proud, flustered and laughing. To the right, small studies of her props: a wooden peel with a round loaf, a brass bell and an oil lamp. Small pencil notes in handwriting beside the views: "front", "side", "back", "sleepy", "proud", "flustered", "laughing". Loose watercolour washes over soft pencil underdrawing, palette of warm brown, cornflower blue, cream and lamplight yellow.
-```
-
-</details>
-
-### [Fluffy, the Year of the Goat mascot](https://prompix.ai/prompts/fp-rongrong-year-of-goat)
-
-<a href="https://prompix.ai/prompts/fp-rongrong-year-of-goat"><img src="https://api.prompix.ai/media/w480/9c2a4345a7ad219df62991b8e92ae95da6095d5e1b481e4dfc1a77e702776ffa.jpg" alt="Fluffy, the Year of the Goat mascot" width="360"></a>
-
-A character design sheet for an original Year of the Goat mascot: a fluffy little sheep like a cloud of yarn, wearing a red scarf, with three views across the top and three expressions along the bottom, labelled in Chinese. Change the zodiac animal or character to make a new mascot design sheet.
-
-**Model:** Seedream 5.0 Pro
-
-```text
-An original mascot design sheet, landscape format, on a light grey-white background, in a clean flat illustration style. The character is 2027’s Year of the Goat mascot “绒绒,” a chubby little sheep whose body looks like a cloud of ivory yarn, with a warm brown face and limbs, a pair of small curled horns, and a red scarf. The top row shows three views: front, side, and back, labelled 「正面」「侧面」「背面」. The bottom row shows three expressions: happy, shy, and yawning, labelled 「开心」「害羞」「打哈欠」. The title 「绒绒 · 角色设定」 is in the upper right corner. Use only ivory, warm brown, red, and light grey. Clean, rounded lines, with consistent proportions in every view. Use Simplified Chinese for all text and copy it exactly character by character; no other text.
-```
-
-<details><summary>Original prompt (中文)</summary>
-
-```text
-一张原创吉祥物设定图，横版，浅灰白背景，干净的平面插画风格。角色是2027羊年的吉祥物「绒绒」，一只圆滚滚的小绵羊，身体像一团米白色的毛线云朵，脸和四肢是暖棕色，头上一对卷曲的小角，脖子上系一条红色围巾。画面上排是三视图：正面、侧面、背面，每个视图下面分别标注「正面」「侧面」「背面」。下排是三个表情：开心、害羞、打哈欠，分别标注「开心」「害羞」「打哈欠」。右上角写标题「绒绒 · 角色设定」。配色只有米白、暖棕、红色和浅灰。线条简洁圆润，每个视图里的比例一致。全部文字用简体字，逐字照写，不要其他文字。
-```
-
-</details>
 
 ## Spaces
 
@@ -1187,7 +1205,65 @@ A two-color field-guide page combining letterpress and linocut, showing eight si
 Letterpress print on thick cream cotton paper in two inks, deep navy and tomato red, portrait format. A page from an imaginary field guide titled "LOST GLOVES OF NOVEMBER" in a bold wood-type slab serif across the top, with the line "single specimens recovered from city railings" in small italic serif beneath. Eight odd gloves and mittens drawn as linocut specimens, arranged in a tidy 4×2 grid, each held by a tiny drawn pin and showing visible gouge marks. Under each one a small typewritten label: "left, wool, bus stop", "right, leather, park gate", "child's mitten, bridge", "fingerless, café chair", "ski glove, fence post", "left, knitted stripes", "gardening glove, Tuesday", "one of a pair, unclaimed". Slight ink squash at the edges of the letters, uneven ink coverage, a faint blind deboss of the plate border, and a small red catalogue number "Fig. 11" in the lower right corner. Wide margins, quiet museum-label layout, no gradients, no photographic elements.
 ```
 
+## Characters
+
+### [Walking frames for a lantern-carrying moth](https://prompix.ai/prompts/fp-lantern-moth-sprites)
+
+<a href="https://prompix.ai/prompts/fp-lantern-moth-sprites"><img src="https://api.prompix.ai/media/w480/61deccd77585c50388b2934548779b0b70e0e419e33ae6f82e050c0a27bbfae0.jpg" alt="Walking frames for a lantern-carrying moth" width="360"></a>
+
+A sprite sheet for an original pixel-art character: a little moth carrying a paper lantern, with eight walking frames in each of four directions and an eight-colour palette on the right. Swap in a different character to mock up an indie game.
+
+**Model:** GPT Image 2.6
+
+```text
+A pixel art sprite sheet for an original game character, shown on a dark navy background with a faint grid, landscape format. The character is a small moth who carries a glowing paper lantern on a stick. Four rows of eight frames each, a full walk cycle facing down, left, right and up, every frame drawn at 32 by 32 pixels and scaled up with crisp hard pixel edges and no anti-aliasing. To the right, a palette strip of eight colour swatches: dusty brown, cream, pale lilac, deep navy, lantern orange, warm yellow, soft white, charcoal. At the top left, the label "LANTERN MOTH - WALK" in a small pixel font. Limited palette, clean silhouettes, the same proportions in every frame.
+```
+
+### [The Retired Carrier Pigeon Who Delivers Soup](https://prompix.ai/prompts/fp-margot-puppet-reference)
+
+<a href="https://prompix.ai/prompts/fp-margot-puppet-reference"><img src="https://api.prompix.ai/media/w480/b70ed93503d681e87bbb289afdc683c7787f6386cf9d7da4f5724173489a41b7.jpg" alt="The Retired Carrier Pigeon Who Delivers Soup" width="360"></a>
+
+A production reference sheet for a stop-motion puppet: four turnaround views on the top row, five interchangeable expression faces on the bottom row, with handwritten masking-tape labels. Change the character to create a new puppet design.
+
+**Model:** GPT Image 2.6
+
+```text
+Production reference sheet for an original stop-motion puppet, photographed on a pale grey seamless backdrop in soft, even studio light, landscape format. The character is Margot, a retired postal pigeon who now delivers soup: a plump felt-and-wool pigeon with a wire armature, a tiny knitted mustard scarf, a brass-buttoned navy waistcoat, and a small canvas satchel holding a lidded tin pot. Top row: four full-body turnaround views of the same puppet standing on small rig stands, labelled "FRONT", "3/4", "SIDE", "BACK". Bottom row: five interchangeable replacement faces lined up like specimens, labelled "CALM", "SURPRISED", "PROUD", "SLEEPY", "WORRIED". Every label is hand-lettered in black marker on a strip of masking tape, and the title "MARGOT · PUPPET REF" sits at the top left. Visible felt fibres, stitching and tiny fingerprints on the clay beak. Palette of dove grey, navy, mustard and cream.
+```
+
+### [Hedgehog baker who opens only at night](https://prompix.ai/prompts/fp-mrs-fennel-night-baker)
+
+<a href="https://prompix.ai/prompts/fp-mrs-fennel-night-baker"><img src="https://api.prompix.ai/media/w480/c4e64def885040b57df34e77b14e8600c4ca53bcf20844c4b541ee08992ddef8.jpg" alt="Hedgehog baker who opens only at night" width="360"></a>
+
+A picture-book character design sheet: an old hedgehog who runs a night bakery, with three views, four expressions, and three props, annotated by hand in watercolour and pencil. Change the character to make a new picture-book design sheet.
+
+**Model:** Nano Banana 2.1
+
+```text
+A watercolor character design sheet for a children's picture book, painted on warm white cold-press paper, landscape format. The original character is Mrs. Fennel, an elderly hedgehog who runs a bakery that only opens at night: round spectacles, a flour-dusted blue apron over a knitted cardigan, soft brown spines. Across the top, three full-body views: front, side and back. Below, four small head studies of her expressions: sleepy, proud, flustered and laughing. To the right, small studies of her props: a wooden peel with a round loaf, a brass bell and an oil lamp. Small pencil notes in handwriting beside the views: "front", "side", "back", "sleepy", "proud", "flustered", "laughing". Loose watercolour washes over soft pencil underdrawing, palette of warm brown, cornflower blue, cream and lamplight yellow.
+```
+
+<details><summary>Original prompt</summary>
+
+```text
+A watercolour character design sheet for a children's picture book, painted on warm white cold-press paper, landscape format. The original character is Mrs. Fennel, an elderly hedgehog who runs a bakery that only opens at night: round spectacles, a flour-dusted blue apron over a knitted cardigan, soft brown spines. Across the top, three full-body views: front, side and back. Below, four small head studies of her expressions: sleepy, proud, flustered and laughing. To the right, small studies of her props: a wooden peel with a round loaf, a brass bell and an oil lamp. Small pencil notes in handwriting beside the views: "front", "side", "back", "sleepy", "proud", "flustered", "laughing". Loose watercolour washes over soft pencil underdrawing, palette of warm brown, cornflower blue, cream and lamplight yellow.
+```
+
+</details>
+
 ## Social
+
+### [Christmas morning on film](https://prompix.ai/prompts/fp-christmas-morning-on-film)
+
+<a href="https://prompix.ai/prompts/fp-christmas-morning-on-film"><img src="https://api.prompix.ai/media/w480/c193f6f8777a5069b6d4b65615024c4580771ba0508df0fd956a0ac9bfab90de.jpg" alt="Christmas morning on film" width="360"></a>
+
+Change the opening gifts and room, then upload a photo to use: the people in the photo sit in their pajamas amid unwrapped packaging, as someone picks up a gift. Window light comes in from one side, with warm, faded film and grain, like a casual family snapshot. Tested with couples, a family of four, older couples, and one person alone.
+
+**Model:** GPT Image 2.6
+
+```text
+Gift: a pair of hand-knitted mittens. Room: a farmhouse living room with exposed wooden beams. Turn the photo I upload into a candid photo from Christmas morning, as if someone in the family took it on a film camera. Keep the person or people from my photo as they are: the same faces, ages, skin tones and hairstyles; everyone is an adult. They sit on the floor of the room above in pyjamas and thick socks, among torn wrapping paper, curled ribbons and open boxes. One of them is lifting the gift above out of its box with a real, unposed reaction; anyone else is watching them, not the camera. Low camera, at the height of someone sitting on the sofa, slightly tilted. Soft morning daylight comes from a big window on one side, so one side of each face is lit and the other falls into gentle shade. A Christmas tree stands in the background with its lights on but faint in the daylight. A mug of coffee on the floor, a crumpled bow, a little mess. Warm, slightly faded colour film: creamy highlights, lifted blacks, visible grain, a little softness toward the corners of the frame. Avoid: text, logos, a styled showroom set, flash, everyone looking at the camera.
+```
 
 ### [Commuter Race Broadcast](https://prompix.ai/prompts/fp-commute-race-broadcast)
 

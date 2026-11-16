@@ -2,28 +2,28 @@
 
 [English](README.md) · **简体中文**
 
-84 条由 [Prompix](https://prompix.ai/zh) 编写并实测过的 AI 绘画提示词，每条都附上生成的图片。全部以 [CC0](LICENSE) 发布：可以随意复制、修改、
+93 条由 [Prompix](https://prompix.ai/zh) 编写并实测过的 AI 绘画提示词，每条都附上生成的图片。全部以 [CC0](LICENSE) 发布：可以随意复制、修改、
 商用，不需要署名。
 
 更多来自各平台创作者的提示词（都标注了作者和原帖）在 **[prompix.ai](https://prompix.ai/zh)**：
 [AI 绘画提示词](https://prompix.ai/zh/image-prompts) · [AI 视频提示词](https://prompix.ai/zh/video-prompts) · [ChatGPT、Claude、Gemini 提示词](https://prompix.ai/zh/text-prompts) ·
 [AI 游戏提示词](https://prompix.ai/zh/game-prompts) · [本周热门](https://prompix.ai/zh/trending) · [每日一期](https://prompix.ai/zh/daily)
 
-按模型：[Nano Banana 提示词](https://prompix.ai/zh/models/nano-banana) · [Midjourney 提示词](https://prompix.ai/zh/models/midjourney) · [GPT Image 提示词](https://prompix.ai/zh/models/gpt-image) · [Seedream 提示词](https://prompix.ai/zh/models/seedream)
+按模型：[GPT Image 提示词](https://prompix.ai/zh/models/gpt-image) · [Nano Banana 提示词](https://prompix.ai/zh/models/nano-banana) · [Midjourney 提示词](https://prompix.ai/zh/models/midjourney) · [Seedream 提示词](https://prompix.ai/zh/models/seedream)
 
 ## 目录
 
 - [插画](#插画)（22）
-- [人像](#人像)（14）
+- [人像](#人像)（21）
 - [海报](#海报)（12）
+- [修图](#修图)（10）
 - [美食](#美食)（8）
-- [修图](#修图)（8）
 - [产品](#产品)（4）
-- [角色](#角色)（4）
 - [空间](#空间)（3）
 - [旅行](#旅行)（3）
 - [图解](#图解)（3）
-- [社交](#社交)（1）
+- [角色](#角色)（3）
+- [社交](#社交)（2）
 - [穿搭](#穿搭)（1）
 - [日常](#日常)（1）
 
@@ -295,6 +295,90 @@ Subject: a baker in his forties shaping loaves of dough on a floured table. Sett
 
 ## 人像
 
+### [1980 年代激光背景照](https://prompix.ai/zh/prompts/fp-1980s-laser-backdrop-portrait)
+
+<a href="https://prompix.ai/zh/prompts/fp-1980s-laser-backdrop-portrait"><img src="https://api.prompix.ai/media/w480/31c3d372e37c505309b58eadc76c6a29f983d848e4ecdf60cdc2503e40173c6b.jpg" alt="1980 年代激光背景照" width="360"></a>
+
+改开头的发型和服装，再上传一张照片就能用：照片里的人变成 1980 年代学校拍照日的肖像，深蓝斑驳背景布上粉青两道激光，头顶一圈轮廓光，白边相纸微微泛品红。印度小伙、东亚女生、六十多岁的阿姨、大胡子都验证过。
+
+**模型：** GPT Image 2.6
+
+```text
+发型：big permed curls with a side ponytail in a scrunchie。服装：a pink oversized blouse with a big bow at the neck。把我上传的照片变成一张1980年代的学年照肖像，就像巡回摄影师为大学年鉴拍摄的那种照片。让照片中的人物保持可辨认：面孔、年龄、肤色和体格都与原照相同；此人为成年人。按照上方的发型重新打理，并穿上上方的服装。头肩像，身体转向约四十五度，头朝镜头微微倾斜，带着略显刻意的微笑，面部位于画面上方中央。身后是定义这个年代的背景：深蓝色斑驳布幕，细细的粉色和青色激光束从头后方斜向交错，并在边缘渐渐淡去。灯光：柔和的正面影棚灯让面部受光均匀，眼中有小小的眼神光；后方明亮的发灯在头发顶部形成光环。照片是一张带细白边的真实彩色相片：焦点略柔，颗粒细腻，肤色带暖洋红色调，黑位微微褪色，并有一两处微小灰尘斑点。避免：文字、标志、现代锐利质感、影棚道具、没有激光的平滑渐变背景。
+```
+
+### [1980 年代商场柔焦写真](https://prompix.ai/zh/prompts/fp-1980s-mall-glamour-shot)
+
+<a href="https://prompix.ai/zh/prompts/fp-1980s-mall-glamour-shot"><img src="https://api.prompix.ai/media/w480/ef4c74e85508257a4d720288ac8b80e3f3d6d427dcd3eb5f87bbd75feaa0c16e.jpg" alt="1980 年代商场柔焦写真" width="360"></a>
+
+改开头的造型和背景光色，再上传一张照片就能用：1980 年代商场写真馆的柔焦大头照，高光全化成雾，首饰上闪着四角星芒，托腮回眸，四周暗角。东亚女生、印度小伙、银发阿姨、长发大胡子都验证过。
+
+**模型：** GPT Image 2.6
+
+```text
+造型：silver hair blow-dried into a big soft bouffant, a black velvet jacket with shoulder pads, pearl earrings and a pearl choker。背景光晕：rose pink。把我上传的照片变成一张1980年代的魅力摄影棚肖像，就像购物中心影楼为装框赠礼拍摄的那种肖像。让照片中的人物保持可辨认：面孔、年龄、肤色和体格都与原照相同；此人为成年人。按照上方的造型为其重新打理，并做出那个年代精心吹蓬、喷满发胶的丰盈发型。姿势：四分之三侧面半身像，一只手抬至下巴附近或轻搭在衣领上，回眸看向镜头，神情自信而略带梦幻。身后是朦胧的深色背景，头部后方有上方颜色的柔和光斑。效果来自镜头：浓重的柔焦朦胧感，让皮肤、头发和珠宝上的每处高光都泛出柔和光晕；最亮的珠宝或亮片上有小小的四角星闪光，画面边缘渐渐融入深色柔和暗角。面部仍清晰可辨，妆容可以是浓重腮红和鲜艳唇色，或整洁修饰过的造型，并用轮廓光勾勒头发。浓郁的彩色相片效果，肤色温暖，略带洋红色调，颗粒细腻。避免：文字、标志、现代锐利质感、塑料般的皮肤、暴露的服装。
+```
+
+### [1980 年代舞会合影](https://prompix.ai/zh/prompts/fp-1980s-prom-photo-card-folder)
+
+<a href="https://prompix.ai/zh/prompts/fp-1980s-prom-photo-card-folder"><img src="https://api.prompix.ai/media/w480/fb16a211ee69953bc9a42cea84be4e1b0f326651d4047da60ec4d375a1673cec.jpg" alt="1980 年代舞会合影" width="360"></a>
+
+改开头的舞会名和礼服，再上传一张两个人的照片就能用：1980 年代舞会摄影师拍的合影，泡泡袖塔夫绸、白色花拱、气球，装在深蓝卡纸的椭圆窗里，底下一行烫金舞会名。情侣、老夫妻、两个女生、黑人夫妇都验证过。
+
+**模型：** GPT Image 2.6
+
+```text
+舞会："Moonlight Dance 1985"。礼服：two taffeta gowns with huge puffed sleeves and high necklines, one in mint green and one in lilac。把我上传的照片变成一张正式的1980年代舞会风双人合照，就像受聘摄影师在正式舞会上为照片中的两人拍摄的摆拍肖像。让两人都保持可辨认：面孔、年龄、肤色和体格都与原照相同；两人都是成年人。为他们穿上上方的1980年代礼服造型，搭配蓬松烫发、倒梳或羽毛层次发型，以及腕花或胸花。经典姿势：一人斜站在另一人身后，两人在腰前双手交握，一同直视镜头微笑。身后是一座缠绕着人造花的白色格架拱门，前方背景画着粉彩天空，两侧边缘点缀几只颜色相配的气球。灯光：从正面用带柔光伞的闪光灯照亮，面部明亮均匀，背景上有一道柔和的阴影，缎面和塔夫绸上微微发亮。照片是一张装在纸板相册套中的真实彩色相片：深蓝色卡纸相框，椭圆形镂空窗口围住照片，窗口下方用小号金箔手写体印着上方的舞会名称，必须与原文完全一致且不加引号。避免：其他文字、标志、现代发型、暴露的服装、青少年。
+```
+
+### [同款毛衣的圣诞棚拍合影](https://prompix.ai/zh/prompts/fp-christmas-matching-sweater-studio-portrait)
+
+<a href="https://prompix.ai/zh/prompts/fp-christmas-matching-sweater-studio-portrait"><img src="https://api.prompix.ai/media/w480/8a0c323be546605931b70a1cf9b043358401d19e1d30920f6aa86d1bde55b63f.jpg" alt="同款毛衣的圣诞棚拍合影" width="360"></a>
+
+改开头的毛衣和背景，再上传一张全家福或合影就能用：大家换上同一款同色的毛衣，在影棚里坐一排、站一排，旁边一棵只挂白灯的小树，毛衣是画面里唯一的浓颜色。一家四口、老夫妻、三个朋友、父子都验证过。
+
+**模型：** GPT Image 2.6
+
+```text
+毛衣：a cherry-red ribbed turtleneck。背景：a pale sage-grey painted canvas backdrop。把我上传的照片变成一张在影棚拍摄的圣诞肖像，就像家庭会寄出的圣诞贺卡照片。照片中的每个人都保持原样：面孔、年龄、肤色、发型和体格都与原照相同，人数也保持不变；所有人都是成年人。现在，每个人都穿着上方的毛衣，针织样式和颜色完全一致，下身搭配素色深色长裤或裙子。他们组成一个精心安排却轻松自然的群像：一到两人坐在矮木凳上，其他人站在其身后或旁边，头部高度错落，形成松散的三角构图，每个人都与某人有所接触，约占画面百分之七十。身后是上方的背景，一侧摆着一棵小型真冷杉树，只挂素雅的暖白色灯串，不加任何装饰。灯光：左前方有大型柔光主灯和柔和补光，面部受光均匀，每只眼睛里都有一道清晰的眼神光，背景上投下柔和阴影。保留自然皮肤质感、毛孔和笑纹，不要磨皮。一人正笑到一半，其余人面向镜头微笑。平静、现代的编辑风格色调：毛衣颜色是画面中唯一鲜明的色彩，其余一切都柔和中性。颗粒细腻。避免：文字、标志、毛衣图案或花纹、同款睡衣、手持道具、塑料般的皮肤。
+```
+
+### [雪夜街头的圣诞合影](https://prompix.ai/zh/prompts/fp-christmas-snow-street-walk)
+
+<a href="https://prompix.ai/zh/prompts/fp-christmas-snow-street-walk"><img src="https://api.prompix.ai/media/w480/f0172e23e2528c62cc17897a396af93945c349f974807c040d1bfee769ee43a2.jpg" alt="雪夜街头的圣诞合影" width="360"></a>
+
+改开头的街道和外套，再上传一张两个人的照片就能用：两人挽着手在下雪的圣诞夜走来，长焦把路灯和灯串压在身后，整张以深蓝为主，暖黄只在灯和脸上。情侣、老夫妻、两个朋友、父子都验证过。
+
+**模型：** Nano Banana 2.1
+
+```text
+街道：a narrow old-town lane of timber-framed houses。大衣：a camel wool coat and a charcoal peacoat。把我上传的照片变成一张圣诞夜照片，拍摄照片中的两人沿着上方的街道手挽手朝镜头走来，空中飘着雪。两人保持原样：面孔、年龄、肤色和发型都与原照相同；两人都是成年人。让他们穿上上方的大衣，配上围巾。从约四十米外的眼睛高度使用300 mm长焦镜头拍摄，因此街景会被压缩：路灯、彩灯串和身后的房屋立面看起来紧密叠在一起，比近距离观察时大得多。两人从膝盖以上入镜，占据画面下半部，清晰对焦，彼此相视而笑，没有摆拍感。身后的街道压缩成柔和的层次：暖黄色路灯、悬挂在街道上方的圣诞彩灯串、亮着灯的窗户，全部虚化，任何招牌也模糊到无法辨认。靠近镜头的雪花形成大片柔和虚影；情侣周围的雪花则是被灯光照亮的小小亮线。地面、他们的肩膀和头发上都积着新雪。色彩：深夜场景；浓郁的墨蓝色是画面的主色，铺陈在天空、阴影和雪地中，只有路灯、窗户和他们的脸上透出暖琥珀色，围巾再添一抹红色。胶片颗粒质感，最亮的灯周围泛着柔光。避免：可读文字、标志、前景中的汽车、雾气、摆拍般直视镜头。
+```
+
+### [圣诞夜树旁的直闪快照](https://prompix.ai/zh/prompts/fp-christmas-tree-flash-snapshot)
+
+<a href="https://prompix.ai/zh/prompts/fp-christmas-tree-flash-snapshot"><img src="https://api.prompix.ai/media/w480/d5149461e46f3fa174bbd24af2c93e6e06aa9879f7522311fcb58a280f353819.jpg" alt="圣诞夜树旁的直闪快照" width="360"></a>
+
+改开头的服装、手里的东西和日期戳，再上传一张照片就能用：照片里的人被放到黑屋子里的圣诞树旁，傻瓜机直闪打亮脸、墙上一道硬影子，角落一个橙色日期戳。验证过年轻女生、留胡子的男人、六十多岁的阿姨和一对老夫妻。
+
+**模型：** GPT Image 2.6
+
+```text
+服装：an oversized cream cable-knit sweater and a gold paper crown。手持物：a mug of hot chocolate with a melting marshmallow。日期标记：26 12 24。把我上传的照片变成一张圣诞夜前夕在圣诞树旁拍摄的快照，使用小型傻瓜相机和内置闪光灯。照片中的人物完全保持原样：面孔、年龄、肤色、发型和体格都与原照相同；所有人都是成年人。让他们穿上上方的服装，并把上方的物品放在他们手里。他们半身入镜，站在夜晚昏暗客厅里一棵真实、略有些歪斜的圣诞树旁，占据画面约三分之二，正笑着看向镜头。另一个人站在约两米外拿着相机；这不是自拍，他们的双手都保持靠近身体。画面效果完全依靠闪光灯。面部和衣服正面明亮且略微过曝，额头和鼻子泛着光；他们的清晰深色投影落在身后的墙上，并稍稍偏向一侧。光线迅速衰减：只有离他们最近的树枝受光，后面的房间几乎全黑；树上的暖色灯串呈现为小而清晰的光点，而非柔和的散景光球。靠近闪光灯的玻璃球饰和金属箔装饰上反射出小块坚硬的白色高光。暖色消费级彩色胶片效果，阴影略带绿色，可见颗粒，黑位深沉，一只手略有动态模糊。右下角有一个小小的橙色七段数码日期标记，只显示上方日期标记中的数字和空格，必须与原文完全一致。不要添加其他文字。避免：影棚灯光、发光的散景光球、完美对称的圣诞树、额外人物、标志。
+```
+
+### [圣诞袜里的宠物](https://prompix.ai/zh/prompts/fp-pet-in-christmas-stocking)
+
+<a href="https://prompix.ai/zh/prompts/fp-pet-in-christmas-stocking"><img src="https://api.prompix.ai/media/w480/266383b2902d23aed188ea75f8315093e9576ed0886c85b84963c33d9d41593f.jpg" alt="圣诞袜里的宠物" width="360"></a>
+
+改开头的名字和袜子样式，再上传一张宠物照片就能用：宠物从壁炉上挂着的大号手织圣诞袜里探出头，前爪搭在袜口，袜口上用红色十字绣绣着它的名字。柯基、虎斑猫、垂耳兔、老黑狗都验证过。
+
+**模型：** GPT Image 2.6
+
+```text
+袜筒上的名字："MOCHI"。圣诞袜：a red stocking with a white snowflake band。把我上传照片中的宠物变成一张圣诞肖像：保持动物本身不变，品种、斑纹、颜色和眼睛都与原照相同；它从一只挂在壁炉架上的巨大手工编织圣诞袜顶部探出头来。只有头部和前爪露在圣诞袜厚厚的白色袜口上方，爪子搭在袜口上。圣诞袜采用上方的款式，以粗针羊毛编织，针脚清晰可见，还带几缕松散纤维；袜口上用红色十字绣大写字母绣着上方的名字，拼写必须完全一致。近距离构图：圣诞袜和宠物占据画面大部分，顶部的壁炉架边缘挂着一串真实的松枝花环和三只小铜铃。暖和的炉火从左下方照来，右侧透进柔和的窗光，在毛发边缘勾出光泽。身后是昏暗温暖的房间，树灯化为细小的虚化光点。使用全画幅相机和85 mm镜头拍摄，景深较浅，眼睛清晰对焦，保留自然毛发质感和轻微胶片颗粒。避免：任何其他文字、人物、卡通眼睛、给宠物戴圣诞帽、标志。
+```
+
 ### [花店女孩的一年拍立得墙](https://prompix.ai/zh/prompts/fp-florist-polaroid-wall)
 
 <a href="https://prompix.ai/zh/prompts/fp-florist-polaroid-wall"><img src="https://api.prompix.ai/media/w480/7f9fd713de19eadc4ba34d914cd7abcf6f05618feaa16f02e3057dd6386ccd1b.jpg" alt="花店女孩的一年拍立得墙" width="360"></a>
@@ -465,6 +549,30 @@ Group: a three-generation family of eleven in red sweaters, the grandparents sea
 
 ## 海报
 
+### [你的城市圣诞木刻贺卡](https://prompix.ai/zh/prompts/fp-christmas-linocut-town-card)
+
+<a href="https://prompix.ai/zh/prompts/fp-christmas-linocut-town-card"><img src="https://api.prompix.ai/media/w480/b1611d0cc09ca1dd98b5b8a64dab51385b300f4746051e71933409d3ff9ac37f.jpg" alt="你的城市圣诞木刻贺卡" width="360"></a>
+
+改开头的地方、问候语和油墨颜色就能用：一张手工拓印的双色木刻圣诞卡，雪夜里的这座城、刀痕、留白的雪点，底下一行粗刻字。阿姆斯特丹、西姆拉、新英格兰港口小镇、京都都验证过。
+
+**模型：** GPT Image 2.6
+
+```text
+地点：Amsterdam: a canal lined with tall narrow gabled houses and a humped bridge。祝福语："MERRY CHRISTMAS FROM AMSTERDAM"。墨色：deep red。一张手工印制的双色木刻圣诞贺卡，印在厚实的奶油色纸上，平铺并铺满整个画面。画面描绘上方的地点在下雪的圣诞夜景象，以粗犷简洁的形状雕刻而成：屋顶、窗户，以及能让人认出此地的轮廓；上方有一轮大月亮或一颗大星星，飘雪则刻成细小的白色缺口。第一种颜色使用上方的墨色，实地印刷，覆盖效果粗粝而略不均匀，带有手工上墨的印版质感；第二种颜色为黑色，用于轮廓和最暗的区域。亮着灯的窗户和雪地都由纸张本身留白呈现。雕刻痕迹本身也是画面的一部分：天空中有平行的凿刻线，每个形状的边缘都带有凿刀切痕，还有细小的意外缺口。画面底部用黑色刻出上方的祝福语，采用粗厚的手工切刻大写字母，字母高度略有参差，拼写必须与原文完全一致且不加引号。细细的雕刻边框环绕整幅图像，其中一个角留有小缺口。避免：任何其他文字、渐变、数码般干净利落的边缘、照片般的细节、闪粉、标志。
+```
+
+### [手写字的圣诞贺卡](https://prompix.ai/zh/prompts/fp-christmas-photo-card-hand-lettering)
+
+<a href="https://prompix.ai/zh/prompts/fp-christmas-photo-card-hand-lettering"><img src="https://api.prompix.ai/media/w480/4ccd7358127ae94704682c3afe0724298fa29c53ad5002b95b14589e70dbfe35.jpg" alt="手写字的圣诞贺卡" width="360"></a>
+
+改开头的问候语、落款和油墨颜色，再上传一张照片就能用：照片变成双色网点印刷，压上一行白色毛笔字的问候和手写落款，像一张认真印出来的圣诞贺卡。两个朋友、一家四口、老人和狗、独自一人都验证过，字全部逐字正确。
+
+**模型：** GPT Image 2.6
+
+```text
+祝福语："Merry Christmas from the Okafors"。署名："Ada, Kola, Tobi & Zee"。墨色：deep cranberry red。把我上传的照片变成一张印刷圣诞卡的正面，平铺并铺满整个画面，边缘无空隙，不出现桌面或周围环境。让照片中的人物和动物保持可辨认：面孔、年龄、肤色、发型和姿势都与原照相同；每个人都是成年人。将照片重印为厚实的米白色棉纸上的双色印刷：阴影和中间调使用上方的墨色，高光使用温暖的纸张底色，带有清晰细腻的网点，并在边缘略有套印偏差。照片占据贺卡上方四分之三，并紧密裁切至人物周围。下方区域的祝福语跨过照片底边，以温暖的白色水粉颜料用大号笔刷字体手写，外沿勾勒上方的墨色，并带有真实的笔刷纹理：粗重的下行笔画、纤细的上行笔画，以及笔画末端干笔留下的空隙。祝福语下方用上方墨色以细笔小字手写上方的署名。两者都必须与原文完全一致且不加引号。字样周围用上方墨色点缀几颗小小的手绘星星和一枝冬青。避免：任何其他文字、闪粉、金箔、彩色照片效果、透视角度的贺卡、标志。
+```
+
 ### [街机格斗对决画面](https://prompix.ai/zh/prompts/fp-arcade-versus-screen)
 
 <a href="https://prompix.ai/zh/prompts/fp-arcade-versus-screen"><img src="https://api.prompix.ai/media/w480/155253befb5dc56e5f6f3c2662219b1d5ae1ff0e77828c2a23d4b1d71a4d7c99.jpg" alt="街机格斗对决画面" width="360"></a>
@@ -573,18 +681,6 @@ Group: a three-generation family of eleven in red sweaters, the grandparents sea
 一张竖版的泉州城市海报，套色木刻版画风格，印在略带纤维的米色纸上。画面是闽南红砖古厝的燕尾脊屋顶，层层叠叠，屋脊后面立着两座石塔，前景一枝盛开的红色刺桐花伸进画面。只用三种颜色：砖红、墨绿和深灰，色块平整，边缘有木纹肌理和轻微的套印错位。海报顶部用粗犷的木刻字体刻出「泉州」两个大字，底部一行小字「刺桐花开的城」。墨色有手工印刷的不均匀感。全部文字用简体字，逐字照写，不要其他文字。
 ```
 
-### [字写成的江雪](https://prompix.ai/zh/prompts/fp-river-snow-calligraphy)
-
-<a href="https://prompix.ai/zh/prompts/fp-river-snow-calligraphy"><img src="https://api.prompix.ai/media/w480/9084fecf7e430c22af4e9c604b3739a6473c27e0b3eac97a660af1755b328347.jpg" alt="字写成的江雪" width="360"></a>
-
-柳宗元《江雪》的二十个字摆成一幅雪景：千山是远山，鸟飞绝散在天上，万径人踪灭是一条小路，最后独钓寒江雪墨色最浓。换一首写景的诗也能这样做。
-
-**模型：** GPT Image 2.6
-
-```text
-一幅竖版的文字画，白色宣纸底，大面积留白。柳宗元《江雪》的二十个字「千山鸟飞绝，万径人踪灭。孤舟蓑笠翁，独钓寒江雪」用浓淡不同的墨色楷书书写，字的大小和位置组成一幅雪景：上方「千山」两个字写得很大很淡，像远山；「鸟飞绝」三个字很小，散在天空里；中部「万径人踪灭」五个字排成一条斜斜的小路；下方「孤舟蓑笠翁」旁边画一叶极小的扁舟和一个披蓑衣的渔翁；最下方「独钓寒江雪」墨色最浓。画面上只有这二十个字和那一叶小舟，没有其他文字。全部用简体字，逐字照写。
-```
-
 ### [冬天的六方闲章](https://prompix.ai/zh/prompts/fp-six-winter-seals)
 
 <a href="https://prompix.ai/zh/prompts/fp-six-winter-seals"><img src="https://api.prompix.ai/media/w480/a059f50e4f8dcbccc67eb8b06d595fd93b620949772eb0e6cb6eb8bfc9062dfd.jpg" alt="冬天的六方闲章" width="360"></a>
@@ -597,16 +693,126 @@ Group: a three-generation family of eleven in red sweaters, the grandparents sea
 一张米白色洒金笺纸上，钤着六方朱红闲章，竖版，俯拍，柔和的自然光。六方印排成三行两列，每方印都是正方形朱文印，印文是两个方正的仿宋体大字，六方印的印文分别是「围炉」「煮茶」「听雪」「早睡」「暖手」「归家」，每方印的两个字都不一样，清晰可读。印泥朱红饱满，印边有自然的残破和颗粒感。笺纸右上角有一枝淡墨梅花作装饰，左下角放着一盒打开的朱红印泥。画面上只有这六方印里的十二个字，全部用简体字，逐字照写，不要其他文字。
 ```
 
-### [冬至到春分的硬座票](https://prompix.ai/zh/prompts/fp-solstice-to-equinox-ticket)
+## 修图
 
-<a href="https://prompix.ai/zh/prompts/fp-solstice-to-equinox-ticket"><img src="https://api.prompix.ai/media/w480/08302fe9778c9394aa940344940e0ae07a2ac17391c5677888a71afc04261d9d.jpg" alt="冬至到春分的硬座票" width="360"></a>
+### [1980 年代家庭派对闪光照](https://prompix.ai/zh/prompts/fp-1980s-house-party-flash-snapshot)
 
-一张八十年代风格的硬纸板火车票：冬至开往春分，全程九九八十一天，车次 0081，票价一碗热汤。换成任意两个节气或人生阶段也可以。
+<a href="https://prompix.ai/zh/prompts/fp-1980s-house-party-flash-snapshot"><img src="https://api.prompix.ai/media/w480/95fdb5c18a8858ed1ae4a6bd2e44a67f4ac04f58f9dc01cc8f19376ead435c9e.jpg" alt="1980 年代家庭派对闪光照" width="360"></a>
 
-**模型：** Qwen Image 3.0 Pro
+改开头的派对和日期戳，再上传一张合影就能用：照片里的人换上 1980 年代的派对衣服挤在木墙板客厅里，直闪、红眼、墙上的硬影子、背后跳舞的人和彩带，右下角橙色日期。三个朋友、两个朋友、情侣、一家四口都验证过。
+
+**模型：** GPT Image 2.6
 
 ```text
-一张老式硬纸板火车票，横版，平放在旧木桌上微距拍摄，柔和的侧光。票面是淡绿色底纹，黑色铅字印刷，二十世纪八十年代的排版样式。票面文字：最上方「硬座客票」，中间大字「冬至 → 春分」，下面一行「全程 九九八十一天」，左下角「车次 0081」，右下角「票价 一碗热汤」。票面左侧有一个圆形打孔，边缘略有磨损发黄，旁边露出一只旧毛线手套的一角。全部文字用简体字，逐字照写，不要其他文字。
+派对：a birthday party in a small city apartment。日期标记：85 06 14。把我上传的照片变成一张1980年代家庭派对的闪光快照，场景就是上方描述的派对，仿佛用小型自动胶片相机拍摄。让照片中的人物保持可辨认：面孔、年龄、肤色和体格都与原照相同，彼此的位置关系也保持不变；所有人都是成年人。为他们换上1980年代派对服装和发型：宽大的西装外套，袖子卷起；霓虹色风衣；压发或倒梳发型；大耳环；松开的窄领带。他们挤在拥挤的木板墙客厅中央，有人笑到一半，有人举着纸杯，有人被拍到眨眼。相机自带闪光灯让他们明亮得略微过曝，眼睛泛红，紧挨身后的木板墙上投下浓重的黑影；房间逐渐暗成棕色和橙色，其他派对宾客在远处舞动成模糊的影子，一条纸彩带垂挂在天花板上，架子上放着一台大型银色磁带播放器。色彩：偏暖、略带黄绿色的消费级彩色胶片效果，阴影压暗，颗粒粗糙，画面略微倾斜。右下角有一个小小的橙色七段数码日期标记，内容为上方的日期标记，必须与原文完全一致。不要添加其他文字。避免：标志、品牌名称、现代手机、完美构图、儿童。
+```
+
+### [1980 年代印度电影剧照](https://prompix.ai/zh/prompts/fp-1980s-indian-movie-still)
+
+<a href="https://prompix.ai/zh/prompts/fp-1980s-indian-movie-still"><img src="https://api.prompix.ai/media/w480/9f012647cf047b92339be108557c434d62aad3ee90350f36c46209977d89499e.jpg" alt="1980 年代印度电影剧照" width="360"></a>
+
+改开头的场景和服装，再上传一张照片就能用：照片里的人成了一部 1980 年代印度电影的主角，宽银幕一帧，饱和又褪色的暖片、柔光晕、颗粒和一道竖划痕。雨中山路、油菜花田双人歌舞、雷雨夜的母亲、乡村集市夜场都验证过。
+
+**模型：** GPT Image 2.6
+
+```text
+场景：a romantic duet in a meadow of yellow mustard flowers below snowy mountains, the two of them running toward each other。服装：for her a chiffon saree in bright magenta, for him a cream cable-knit sweater and grey trousers。把我上传的照片变成一帧来自1980年代印度电影的静帧，仿佛照片中的人物就是上方场景中的主角。让照片中的每个人都保持可辨认：面孔、年龄、肤色和体格都与原照相同；所有人都是成年人。按照上方的服装为他们搭配造型，并采用1980年代印度电影的发型和妆容：蓬松的吹风造型和浓重的眼线，或浓密的小胡子与侧分发型。画面构图像宽幅16:9电影画幅：中景，人物略偏离中心，定格在场景中的戏剧性瞬间，身体朝向镜头呈四分之三侧面，神情强烈而真挚。胶片效果：色彩浓烈、偏暖且已开始褪色，红色和橙色泛着光，肤色呈金色，阴影渐渐偏向洋红和青绿色；焦点柔和，高光周围泛着淡淡光晕；粗颗粒胶片质感，带几处灰尘斑点和一道淡淡的竖向划痕；黑位略微压暗。避免：字幕、任何文字或标题、标志、真实演员的面孔、现代数码般的锐利质感、暴露的服装。
+```
+
+### [1980 年代新车前的合影](https://prompix.ai/zh/prompts/fp-1980s-new-car-snapshot)
+
+<a href="https://prompix.ai/zh/prompts/fp-1980s-new-car-snapshot"><img src="https://api.prompix.ai/media/w480/2b7ae085853d4f03c86b567e6157543a6c177316b1aa43dfb168c868662b4b7e.jpg" alt="1980 年代新车前的合影" width="360"></a>
+
+改开头的车和地方，再上传一张两个人的照片就能用：两人换上 1980 年代的花衬衫和高腰裤，站在自家新车旁眯眼笑，正午硬光、褪成橙品红的圆角相纸，像家里相册里抽出来的。印度父子、美国父子、两个朋友、情侣都验证过。
+
+**模型：** GPT Image 2.6
+
+```text
+汽车：a small boxy white 1980s hatchback with chrome bumpers。地点：a quiet small-town street in India with a pink-washed house and a neem tree。把我上传的照片变成一张1980年代的家庭快照，照片中的两人自豪地站在新车旁。让两人保持可辨认：面孔、年龄、肤色和体格都与原照相同，站位顺序也不变；两人都是成年人。为他们换上1980年代日常服装和发型：短袖花纹衬衫塞进高腰长裤，搭配细皮带、飞行员眼镜、羽毛层次发型或浓密小胡子。他们并排站在上方的汽车旁，其中一人把手搭在车顶，两人都眯着眼睛在阳光下微笑，全身入镜，汽车占据画面右半部。身后是上方的地点。正午强烈的高位阳光在眼睛下方和下巴下方投下短而深的阴影，车漆明亮且反射强烈，车身在地面上投下硬边阴影。照片是一张1980年代真实的彩色相片，带细白边和圆角：色彩褪成暖橙色和洋红色，蓝天褪成浅青色，焦点柔和，颗粒粗糙，略有倾斜，仿佛由亲戚拍摄。避免：汽车上的品牌徽章或标志、可读的车牌、任何文字、现代汽车。
+```
+
+### [修复前与修复后](https://prompix.ai/zh/prompts/fp-restoration-before-after)
+
+<a href="https://prompix.ai/zh/prompts/fp-restoration-before-after"><img src="https://api.prompix.ai/media/w480/72509ee137822a036155aa19d5bef14afa1c9371009aada679ce9cf98bf1f03b.jpg" alt="修复前与修复后" width="360"></a>
+
+改开头的画的对象和两块标牌就能用：美术馆墙上并排挂着一幅十八世纪油画的"修复前"和被热心人修坏了的"修复后"，修坏的脸眼距太宽、腮红是两个圆，但画得很用心。博美犬、贵族、公羊、抱猫的贵妇四幅验证过。
+
+**模型：** GPT Image 2.6
+
+```text
+Subject: a nobleman in a powdered wig, a blue velvet coat and a lace cravat, one hand resting on a walking cane. Labels: left "BEFORE, 1764", right "AFTER, 2026". 一张博物馆展厅墙面的照片，两幅油画并排悬挂，高度相同，装在相配的雕花镀金画框中。左边：原作，是一幅描绘上文所述人物的18世纪肖像，采用薄涂层层叠绘，左侧柔和光线照射，旧清漆上有细密的龟裂纹，庄严而美丽。右边：同一幅画布经过一位热心业余爱好者修复后的样子：构图、画框、背景、服饰和姿势都相同，但脸部由一位出于好意的新手重新绘制，眼睛稍微画得过于分开且不对称，带着欢快而歪歪扭扭的笑容，圆圆的粉色脸颊扁平，五官简化，旧画面上覆着光亮的新颜料。画得笨拙却讨人喜欢，显然是用心画的，绝不诡异或丑陋。每幅画下方各挂着一块小小的奶油色博物馆标签，标签上只有上文给出的标签文字；左侧标签挂在左边的画下，右侧标签挂在右边的画下。深绿色展厅墙面，每个画框上方都有暖色画灯，正面拍摄，两幅画占画面超过80%。不是对任何现有画作的复制。避免：宗教图像、真实人物、恐怖元素、其他文字。
+```
+
+### [把照片画进敦煌壁画](https://prompix.ai/zh/prompts/fp-dunhuang-photo-mural)
+
+<a href="https://prompix.ai/zh/prompts/fp-dunhuang-photo-mural"><img src="https://api.prompix.ai/media/w480/a9c3c088344b71b83a0ae55f866d048eb0db1c2d93bbbdf6b21b4b4271c670da.jpg" alt="把照片画进敦煌壁画" width="360"></a>
+
+换一张上传的照片就能用（提示词不用改）：照片里的人和场景被画进一铺唐代敦煌壁画，成了供养人：头后有头光，天上有飞天，地上是莲花砖，墙皮起甲剥落。面摊、老人和狗、两个朋友、火锅四张照片验证过。
+
+**模型：** GPT Image 2.6
+
+```text
+把我上传的照片画成一铺敦煌莫高窟唐代风格的洞窟壁画，照片里的人和场景成了壁画里的供养人和故事：人、动物、物件都按照片里的位置和姿态画在土坯墙面上，人物保持照片里的长相、发型和衣服颜色，但开脸画成唐代壁画的样子：面庞圆润，细长的眉眼，额头和脸颊用朱砂晕染，头后有一圈圆形头光；衣服的边缘化成飘带和璎珞。画面上方有两身飞天斜斜飞过，地面画成莲花方砖，空处填满卷草纹和小朵祥云。画法：土红线起稿，铁线描勾线；大块平涂石青、石绿、朱砂、土红、赭石和白垩，部分铅白已经氧化成黑褐色。墙面有千年的痕迹：颜料起甲剥落，露出底下的草泥层，有几道裂缝。整面壁画占满画面，侧面一束微弱的光照着墙面。避免：文字、题记、印章、现代字体、数码平涂感、照片拼贴感。
+```
+
+### [吉祥物下班了](https://prompix.ai/zh/prompts/fp-mascot-off-duty)
+
+<a href="https://prompix.ai/zh/prompts/fp-mascot-off-duty"><img src="https://api.prompix.ai/media/w480/024b0feeb6c67df7725ee1b2cca8c9daebecb24a7b2cefbf107fc1524209feeb.jpg" alt="吉祥物下班了" width="360"></a>
+
+改开头的吉祥物、穿它的人和地点就能用：原创吉祥物的大头套摘下来放在一边，还在笑着看镜头，套里的人满头汗地喝水。柿子、牛奶盒、包子、仙人掌四个吉祥物验证过。
+
+**模型：** GPT Image 2.6
+
+```text
+吉祥物：a round orange persimmon with a little green leaf cap, big smiling eyes and stubby arms。穿戴者：a man in his fifties with a grey crew cut。地点：the loading bay behind a supermarket on a hot summer afternoon。一张抓拍式纪实照片，拍摄的是穿着这套原创吉祥物服装、正在休息的人。对方坐在倒扣的板条箱上，仍穿着硕大的毛绒躯干和厚厚的大脚套，但巨大的吉祥物头套已经摘下，搁在旁边的板条箱上，它那张欢快的脸正对着镜头；真正的穿戴者满头大汗，头发贴在额前，显得疲惫，正用吸管喝水并把目光移开。头套和躯干明显是同一个原创角色，用布料和泡沫塑料缝制而成，接缝可见，还有些许磨损。自然光，35mm镜头，真实质感，氛围安静，既滑稽又略带伤感。避免：任何现有的吉祥物或卡通角色、品牌标志、可读文字、香烟。
+```
+
+### [把照片剪成孟菲斯拼贴](https://prompix.ai/zh/prompts/fp-memphis-photo-collage)
+
+<a href="https://prompix.ai/zh/prompts/fp-memphis-photo-collage"><img src="https://api.prompix.ai/media/w480/ee400098f0e5d6d4852db0295e1bb0912911504d6c0bbca2257a0af4943d8827.jpg" alt="把照片剪成孟菲斯拼贴" width="360"></a>
+
+换一张上传的照片就能用（提示词不用改）：照片被打印、剪碎、错位贴回去，和孟菲斯风格的波浪线、半圆、波点、锯齿纸片一起，做成一张桌上的手工拼贴。人像、街景、柯基、火锅四张照片验证过。
+
+**模型：** GPT Image 2.6
+
+```text
+把我上传的照片做成一张后现代手工拼贴，呈现1980年代孟菲斯风格。照片被打印出来，用剪刀和锯齿手工刀片剪成五到七块不规则碎片，再略微错位地粘回一张水磨石纹纸上，让场景依然看得清，却有偏移感。周围和上面叠着孟菲斯风格的剪纸形状：黑白曲线、粉色半圆、钴蓝三角形、黄色圆点网格、薄荷绿波浪条纹和点状彩纸屑，并带有小小的纸张阴影；其中两块照片碎片上叠印了纯色色调的半色调图案。从正上方拍摄，拼贴铺在桌面上，占画面超过80%，边缘可见剪刀、胶棒和纸张边角料。照片中的人物和动物保留原来的脸、衣服和姿势。避免：文字、标志、数字矢量图形、整齐对称、改变任何人的脸。
+```
+
+### [把照片变成手绘巨幅广告牌](https://prompix.ai/zh/prompts/fp-photo-to-hand-painted-billboard)
+
+<a href="https://prompix.ai/zh/prompts/fp-photo-to-hand-painted-billboard"><img src="https://api.prompix.ai/media/w480/bfca11ba3b6a4a343485f6114890670291c3761b2302b9797e46e01c842fa4d5.jpg" alt="把照片变成手绘巨幅广告牌" width="360"></a>
+
+换一张上传的照片就能用（提示词不用改）：你的照片被画工手绘成街头的巨幅广告牌，画工还站在脚手架上补最后一笔，人物长相和衣服都保持照片里的样子。四张不同的照片验证过。
+
+**模型：** GPT Image 2.6
+
+```text
+把我上传的照片变成一块巨大的手绘广告牌。将照片中的确切场景，包括相同的人物、脸、发型、服装、颜色和构图，手绘在高悬于城市街道上方的巨幅广告牌上，采用大胆、平涂的丙烯颜料笔触。一位穿着沾满颜料工作服的招牌画师站在前方脚手架上，手持长柄画笔添上最后一笔高光；脚手架板上放着颜料罐和滚筒。从街道上仰拍，傍晚光线，广告牌占画面超过80%。图像明显是手绘的，能看见笔触，形状略经简化，但人物仍能清楚辨认出就是照片中的人。避免：广告牌上出现任何文字或标语、标志、印刷照片的质感、改变人物的脸。
+```
+
+### [把照片变成老游戏截图（GTA风格）](https://prompix.ai/zh/prompts/fp-retro-3d-game-screenshot)
+
+<a href="https://prompix.ai/zh/prompts/fp-retro-3d-game-screenshot"><img src="https://api.prompix.ai/media/w480/ad88f24c5a49382bf926f9b4aecad4c4a00094a89dcbe025f7247614359a3d98.jpg" alt="把照片变成老游戏截图（GTA风格）" width="360"></a>
+
+改开头的一句任务提示、再上传一张照片就能用：照片被做成二十年前的开放世界 3D 游戏截图，低多边形、糊贴图、远处起雾、显像管电视的扫描线，左下角小地图，底部一行日常小任务。四张照片验证过。
+
+**模型：** GPT Image 2.6
+
+```text
+把我上传的照片变成一款约于2002制作的开放世界3D电子游戏截图。保留相同的场景、人物、服装和构图，但用低多边形模型重新构建所有内容：方块状的手、绘制在平面贴图上的简单面孔、由几个方块组成的汽车和家具，以及拉伸铺在墙面和道路上的模糊低分辨率贴图。近处清晰，远处逐渐隐入浅黄绿色雾中；色彩偏暖黄绿；边缘锯齿明显，没有抗锯齿；画面为4:3比例，仿佛从CRT电视上截取，带有淡淡的扫描线和轻微的色彩溢出。左下角有一张小圆形小地图，包含简易街道网格和一个标记点；底部中央有一行带细黑色描边的纯白字幕：Walk the dog home before the next downpour. 不加其他文字。避免：任何游戏名称或标志、真实游戏角色、真实品牌、武器、暴力、现代画面效果。
+```
+
+### [把照片变成雪景球](https://prompix.ai/zh/prompts/fp-photo-to-snow-globe)
+
+<a href="https://prompix.ai/zh/prompts/fp-photo-to-snow-globe"><img src="https://api.prompix.ai/media/w480/865ecb7751d275d777975a04ccad0c68b3638d6d33bd7d98621c56457ca237a1.jpg" alt="把照片变成雪景球" width="360"></a>
+
+换一张上传的照片就能用（提示词不用改）：照片里的场景、人和物被原样做成雪景球里的微缩模型，长相、衣服颜色和位置关系都保持照片里的样子。四张不同的照片验证过。
+
+**模型：** GPT Image 2.6
+
+```text
+把我上传的照片变成一个雪景球：照片里的场景被原样做成一个立体微缩模型，装在一个玻璃雪景球里。照片里有的人、建筑、树、车和物件都在，位置关系和照片一致，只是缩小成手工模型，人物的长相、发型和衣服颜色都保持照片里的样子。玻璃球里正飘着细雪，地面盖着一层薄雪。底座是深色木头，球面有柔和的反光和一道高光。整张是一张真实的产品照片：深色背景，暖光从侧面打来，微距，浅景深。避免：文字、标志、把照片平贴在球里、卡通化、改变人物长相。
 ```
 
 ## 美食
@@ -707,104 +913,6 @@ Group: a three-generation family of eleven in red sweaters, the grandparents sea
 一张俯拍的编辑风格照片：十二只橘子在浅色石面上整齐摆成 3×4 的网格，竖幅，每只都用不同方式剥开：一只剥成一整条长螺旋，一只剥成花朵形状、果皮如花瓣般展开，一只只在中间剥掉一圈果皮，一只在果皮上刻出星形，一只剥成瓣后围成一圈摆放，一只在果皮上刻出笑脸，一只保留所有白色橘络，像穿着毛茸茸的毛衣，还有一只完整未动，其余的也各有精心设计的剥法。鲜橙色与冷灰色形成对比，柔和窗光，阴影短小，质感逼真。不要文字或手。
 ```
 
-## 修图
-
-### [修复前与修复后](https://prompix.ai/zh/prompts/fp-restoration-before-after)
-
-<a href="https://prompix.ai/zh/prompts/fp-restoration-before-after"><img src="https://api.prompix.ai/media/w480/72509ee137822a036155aa19d5bef14afa1c9371009aada679ce9cf98bf1f03b.jpg" alt="修复前与修复后" width="360"></a>
-
-改开头的画的对象和两块标牌就能用：美术馆墙上并排挂着一幅十八世纪油画的"修复前"和被热心人修坏了的"修复后"，修坏的脸眼距太宽、腮红是两个圆，但画得很用心。博美犬、贵族、公羊、抱猫的贵妇四幅验证过。
-
-**模型：** GPT Image 2.6
-
-```text
-Subject: a nobleman in a powdered wig, a blue velvet coat and a lace cravat, one hand resting on a walking cane. Labels: left "BEFORE, 1764", right "AFTER, 2026". 一张博物馆展厅墙面的照片，两幅油画并排悬挂，高度相同，装在相配的雕花镀金画框中。左边：原作，是一幅描绘上文所述人物的18世纪肖像，采用薄涂层层叠绘，左侧柔和光线照射，旧清漆上有细密的龟裂纹，庄严而美丽。右边：同一幅画布经过一位热心业余爱好者修复后的样子：构图、画框、背景、服饰和姿势都相同，但脸部由一位出于好意的新手重新绘制，眼睛稍微画得过于分开且不对称，带着欢快而歪歪扭扭的笑容，圆圆的粉色脸颊扁平，五官简化，旧画面上覆着光亮的新颜料。画得笨拙却讨人喜欢，显然是用心画的，绝不诡异或丑陋。每幅画下方各挂着一块小小的奶油色博物馆标签，标签上只有上文给出的标签文字；左侧标签挂在左边的画下，右侧标签挂在右边的画下。深绿色展厅墙面，每个画框上方都有暖色画灯，正面拍摄，两幅画占画面超过80%。不是对任何现有画作的复制。避免：宗教图像、真实人物、恐怖元素、其他文字。
-```
-
-### [录像带中的一帧动画](https://prompix.ai/zh/prompts/fp-vhs-anime-frame)
-
-<a href="https://prompix.ai/zh/prompts/fp-vhs-anime-frame"><img src="https://api.prompix.ai/media/w480/90ae752dddebd69ac8d27bf2a10a86f90bd1c4de28b7fc2577c2af87bb14211a.jpg" alt="录像带中的一帧动画" width="360"></a>
-
-改开头的一句字幕，再上传一张照片就能用：照片被画成八九十年代电视动画里的一帧，赛璐璐平涂的人、水粉画的背景、录像带的色彩溢出和磁迹噪点，底下一行白字幕。面摊、老人和狗、柯基、球场边的男人四张照片验证过。
-
-**模型：** GPT Image 2.6
-
-```text
-字幕「老伙计，再走一圈就回家。」。把我上传的照片画成八九十年代电视动画里的一帧，像从一盘旧录像带上截下来的：照片里的人、动物和场景保持原来的位置、姿态、发型和衣服颜色，但重新画成那个年代的手绘动画。人物是赛璐璐平涂，只有一层硬阴影和一道高光，轮廓线细而均匀；背景是手绘水粉画，有笔触和纸纹，和人物的平涂明显分开。画面质感：4:3 画幅，录像带的软和糊，轻微的色彩溢出，红色有点晕，暗部偏青，一层胶片颗粒，底部有一条横向的磁迹噪点带。画面下方居中一行白色字幕，带黑色描边，就是上面「」里的字，不写引号，逐字照写，全部用简体字。不像任何一部具体的动画。避免：其他文字、台标、时间码、现代数码上色、3D、任何现有动画的角色和画风。
-```
-
-### [把照片画进敦煌壁画](https://prompix.ai/zh/prompts/fp-dunhuang-photo-mural)
-
-<a href="https://prompix.ai/zh/prompts/fp-dunhuang-photo-mural"><img src="https://api.prompix.ai/media/w480/a9c3c088344b71b83a0ae55f866d048eb0db1c2d93bbbdf6b21b4b4271c670da.jpg" alt="把照片画进敦煌壁画" width="360"></a>
-
-换一张上传的照片就能用（提示词不用改）：照片里的人和场景被画进一铺唐代敦煌壁画，成了供养人：头后有头光，天上有飞天，地上是莲花砖，墙皮起甲剥落。面摊、老人和狗、两个朋友、火锅四张照片验证过。
-
-**模型：** GPT Image 2.6
-
-```text
-把我上传的照片画成一铺敦煌莫高窟唐代风格的洞窟壁画，照片里的人和场景成了壁画里的供养人和故事：人、动物、物件都按照片里的位置和姿态画在土坯墙面上，人物保持照片里的长相、发型和衣服颜色，但开脸画成唐代壁画的样子：面庞圆润，细长的眉眼，额头和脸颊用朱砂晕染，头后有一圈圆形头光；衣服的边缘化成飘带和璎珞。画面上方有两身飞天斜斜飞过，地面画成莲花方砖，空处填满卷草纹和小朵祥云。画法：土红线起稿，铁线描勾线；大块平涂石青、石绿、朱砂、土红、赭石和白垩，部分铅白已经氧化成黑褐色。墙面有千年的痕迹：颜料起甲剥落，露出底下的草泥层，有几道裂缝。整面壁画占满画面，侧面一束微弱的光照着墙面。避免：文字、题记、印章、现代字体、数码平涂感、照片拼贴感。
-```
-
-### [吉祥物下班了](https://prompix.ai/zh/prompts/fp-mascot-off-duty)
-
-<a href="https://prompix.ai/zh/prompts/fp-mascot-off-duty"><img src="https://api.prompix.ai/media/w480/024b0feeb6c67df7725ee1b2cca8c9daebecb24a7b2cefbf107fc1524209feeb.jpg" alt="吉祥物下班了" width="360"></a>
-
-改开头的吉祥物、穿它的人和地点就能用：原创吉祥物的大头套摘下来放在一边，还在笑着看镜头，套里的人满头汗地喝水。柿子、牛奶盒、包子、仙人掌四个吉祥物验证过。
-
-**模型：** GPT Image 2.6
-
-```text
-吉祥物：a round orange persimmon with a little green leaf cap, big smiling eyes and stubby arms。穿戴者：a man in his fifties with a grey crew cut。地点：the loading bay behind a supermarket on a hot summer afternoon。一张抓拍式纪实照片，拍摄的是穿着这套原创吉祥物服装、正在休息的人。对方坐在倒扣的板条箱上，仍穿着硕大的毛绒躯干和厚厚的大脚套，但巨大的吉祥物头套已经摘下，搁在旁边的板条箱上，它那张欢快的脸正对着镜头；真正的穿戴者满头大汗，头发贴在额前，显得疲惫，正用吸管喝水并把目光移开。头套和躯干明显是同一个原创角色，用布料和泡沫塑料缝制而成，接缝可见，还有些许磨损。自然光，35mm镜头，真实质感，氛围安静，既滑稽又略带伤感。避免：任何现有的吉祥物或卡通角色、品牌标志、可读文字、香烟。
-```
-
-### [把照片剪成孟菲斯拼贴](https://prompix.ai/zh/prompts/fp-memphis-photo-collage)
-
-<a href="https://prompix.ai/zh/prompts/fp-memphis-photo-collage"><img src="https://api.prompix.ai/media/w480/ee400098f0e5d6d4852db0295e1bb0912911504d6c0bbca2257a0af4943d8827.jpg" alt="把照片剪成孟菲斯拼贴" width="360"></a>
-
-换一张上传的照片就能用（提示词不用改）：照片被打印、剪碎、错位贴回去，和孟菲斯风格的波浪线、半圆、波点、锯齿纸片一起，做成一张桌上的手工拼贴。人像、街景、柯基、火锅四张照片验证过。
-
-**模型：** GPT Image 2.6
-
-```text
-把我上传的照片做成一张后现代手工拼贴，呈现1980年代孟菲斯风格。照片被打印出来，用剪刀和锯齿手工刀片剪成五到七块不规则碎片，再略微错位地粘回一张水磨石纹纸上，让场景依然看得清，却有偏移感。周围和上面叠着孟菲斯风格的剪纸形状：黑白曲线、粉色半圆、钴蓝三角形、黄色圆点网格、薄荷绿波浪条纹和点状彩纸屑，并带有小小的纸张阴影；其中两块照片碎片上叠印了纯色色调的半色调图案。从正上方拍摄，拼贴铺在桌面上，占画面超过80%，边缘可见剪刀、胶棒和纸张边角料。照片中的人物和动物保留原来的脸、衣服和姿势。避免：文字、标志、数字矢量图形、整齐对称、改变任何人的脸。
-```
-
-### [把照片变成手绘巨幅广告牌](https://prompix.ai/zh/prompts/fp-photo-to-hand-painted-billboard)
-
-<a href="https://prompix.ai/zh/prompts/fp-photo-to-hand-painted-billboard"><img src="https://api.prompix.ai/media/w480/bfca11ba3b6a4a343485f6114890670291c3761b2302b9797e46e01c842fa4d5.jpg" alt="把照片变成手绘巨幅广告牌" width="360"></a>
-
-换一张上传的照片就能用（提示词不用改）：你的照片被画工手绘成街头的巨幅广告牌，画工还站在脚手架上补最后一笔，人物长相和衣服都保持照片里的样子。四张不同的照片验证过。
-
-**模型：** GPT Image 2.6
-
-```text
-把我上传的照片变成一块巨大的手绘广告牌。将照片中的确切场景，包括相同的人物、脸、发型、服装、颜色和构图，手绘在高悬于城市街道上方的巨幅广告牌上，采用大胆、平涂的丙烯颜料笔触。一位穿着沾满颜料工作服的招牌画师站在前方脚手架上，手持长柄画笔添上最后一笔高光；脚手架板上放着颜料罐和滚筒。从街道上仰拍，傍晚光线，广告牌占画面超过80%。图像明显是手绘的，能看见笔触，形状略经简化，但人物仍能清楚辨认出就是照片中的人。避免：广告牌上出现任何文字或标语、标志、印刷照片的质感、改变人物的脸。
-```
-
-### [把照片变成老游戏截图（GTA风格）](https://prompix.ai/zh/prompts/fp-retro-3d-game-screenshot)
-
-<a href="https://prompix.ai/zh/prompts/fp-retro-3d-game-screenshot"><img src="https://api.prompix.ai/media/w480/ad88f24c5a49382bf926f9b4aecad4c4a00094a89dcbe025f7247614359a3d98.jpg" alt="把照片变成老游戏截图（GTA风格）" width="360"></a>
-
-改开头的一句任务提示、再上传一张照片就能用：照片被做成二十年前的开放世界 3D 游戏截图，低多边形、糊贴图、远处起雾、显像管电视的扫描线，左下角小地图，底部一行日常小任务。四张照片验证过。
-
-**模型：** GPT Image 2.6
-
-```text
-把我上传的照片变成一款约于2002制作的开放世界3D电子游戏截图。保留相同的场景、人物、服装和构图，但用低多边形模型重新构建所有内容：方块状的手、绘制在平面贴图上的简单面孔、由几个方块组成的汽车和家具，以及拉伸铺在墙面和道路上的模糊低分辨率贴图。近处清晰，远处逐渐隐入浅黄绿色雾中；色彩偏暖黄绿；边缘锯齿明显，没有抗锯齿；画面为4:3比例，仿佛从CRT电视上截取，带有淡淡的扫描线和轻微的色彩溢出。左下角有一张小圆形小地图，包含简易街道网格和一个标记点；底部中央有一行带细黑色描边的纯白字幕：Walk the dog home before the next downpour. 不加其他文字。避免：任何游戏名称或标志、真实游戏角色、真实品牌、武器、暴力、现代画面效果。
-```
-
-### [把照片变成雪景球](https://prompix.ai/zh/prompts/fp-photo-to-snow-globe)
-
-<a href="https://prompix.ai/zh/prompts/fp-photo-to-snow-globe"><img src="https://api.prompix.ai/media/w480/865ecb7751d275d777975a04ccad0c68b3638d6d33bd7d98621c56457ca237a1.jpg" alt="把照片变成雪景球" width="360"></a>
-
-换一张上传的照片就能用（提示词不用改）：照片里的场景、人和物被原样做成雪景球里的微缩模型，长相、衣服颜色和位置关系都保持照片里的样子。四张不同的照片验证过。
-
-**模型：** GPT Image 2.6
-
-```text
-把我上传的照片变成一个雪景球：照片里的场景被原样做成一个立体微缩模型，装在一个玻璃雪景球里。照片里有的人、建筑、树、车和物件都在，位置关系和照片一致，只是缩小成手工模型，人物的长相、发型和衣服颜色都保持照片里的样子。玻璃球里正飘着细雪，地面盖着一层薄雪。底座是深色木头，球面有柔和的反光和一道高光。整张是一张真实的产品照片：深色背景，暖光从侧面打来，微距，浅景深。避免：文字、标志、把照片平贴在球里、卡通化、改变人物长相。
-```
-
 ## 产品
 
 ### [按颜色排好的一抽屉纽扣](https://prompix.ai/zh/prompts/fp-button-drawer-gradient)
@@ -853,56 +961,6 @@ Subject: a nobleman in a powdered wig, a blue velvet coat and a lace cravat, one
 
 ```text
 七枚伊斯坦布尔硬珐琅徽章别在一面毡旗上，从上方拍摄，背景是深青绿色羊毛，光线柔和，竖幅构图。毡旗为米白色，上面横向贴着红色布贴字母“ISTANBUL”。每枚徽章都有抛光金色金属边框和亮面平涂珐琅色彩：一艘带红色烟囱的小白渡轮、一圈芝麻面包、碟子上的郁金香形茶杯、一只睡着的姜黄色街猫、一座带锥形屋顶的圆形石塔、一颗蓝眼睛护身符珠子，以及一只海鸥。珐琅上有细小反光，徽章角度略有不同，投下柔和阴影。配色为青绿色、米白色、红色、钴蓝色和金色。
-```
-
-## 角色
-
-### [提灯飞蛾的行走帧](https://prompix.ai/zh/prompts/fp-lantern-moth-sprites)
-
-<a href="https://prompix.ai/zh/prompts/fp-lantern-moth-sprites"><img src="https://api.prompix.ai/media/w480/61deccd77585c50388b2934548779b0b70e0e419e33ae6f82e050c0a27bbfae0.jpg" alt="提灯飞蛾的行走帧" width="360"></a>
-
-原创像素角色的精灵图表：一只提着纸灯笼的小飞蛾，四个方向各有八帧行走动画，右侧附八色色板。换个角色就能直接为独立游戏打样。
-
-**模型：** GPT Image 2.6
-
-```text
-一张原创游戏角色的像素精灵图表，置于深海军蓝背景上，背景带有淡淡网格，横幅。角色是一只提着棍子和发光纸灯笼的小飞蛾。四行各八帧，分别是面朝下、左、右、上的完整行走循环；每帧为 32 乘 32 像素，并以清晰锐利的像素边缘放大，不作抗锯齿处理。右侧有一条包含八个色样的色板：灰棕色、奶油色、浅丁香紫、深海军蓝、灯笼橙、暖黄色、柔白色、炭灰色。左上角用小号像素字体标注 "LANTERN MOTH - WALK"。有限调色板，轮廓干净利落，每帧比例一致。
-```
-
-### [送汤的退休信鸽](https://prompix.ai/zh/prompts/fp-margot-puppet-reference)
-
-<a href="https://prompix.ai/zh/prompts/fp-margot-puppet-reference"><img src="https://api.prompix.ai/media/w480/b70ed93503d681e87bbb289afdc683c7787f6386cf9d7da4f5724173489a41b7.jpg" alt="送汤的退休信鸽" width="360"></a>
-
-定格动画玩偶的制作参考表：上排四个转面，下排五张可替换表情脸，美纹纸手写标签。换个角色就是一张新的玩偶设定。
-
-**模型：** GPT Image 2.6
-
-```text
-原创定格动画木偶的制作参考表，在浅灰色无缝背景和柔和均匀的影棚光下拍摄，横幅构图。角色名叫 Margot，是一只退休的邮递鸽，如今负责送汤：圆胖的毛毡与羊毛鸽子，内有金属丝骨架，系着一条迷你针织芥末黄围巾，穿着带黄铜纽扣的海军蓝马甲，背着一个装有带盖锡锅的小帆布包。顶排是同一木偶站在小型支架上的四个全身转面视图，标签为 "FRONT"、"3/4"、"SIDE"、"BACK"。底排是五张像标本一样排开的可互换替换脸，标签为 "CALM"、"SURPRISED"、"PROUD"、"SLEEPY"、"WORRIED"。每个标签都用黑色记号笔手写在一条遮蔽胶带上，标题 "MARGOT · PUPPET REF" 位于左上角。可见毛毡纤维、缝线，以及黏土鸟喙上的细小指纹。配色为鸽灰、海军蓝、芥末黄和米白色。
-```
-
-### [只在夜里开门的刺猬面包师](https://prompix.ai/zh/prompts/fp-mrs-fennel-night-baker)
-
-<a href="https://prompix.ai/zh/prompts/fp-mrs-fennel-night-baker"><img src="https://api.prompix.ai/media/w480/c4e64def885040b57df34e77b14e8600c4ca53bcf20844c4b541ee08992ddef8.jpg" alt="只在夜里开门的刺猬面包师" width="360"></a>
-
-绘本角色设定页：开夜间面包店的老刺猬，三视图、四种表情和三件道具，附水彩加铅笔手写标注。换个角色就是一页新的绘本设定。
-
-**模型：** Nano Banana 2.1
-
-```text
-一张儿童绘本水彩角色设定图，画在暖白色冷压纸上，横幅。原创角色是芬妮尔太太，一只年迈的刺猬，经营着一家只在夜间营业的面包店：戴圆框眼镜，穿着沾满面粉的蓝色围裙，里面是针织开衫，身上长着柔软的棕色刺。上方排列三个全身视图：正面、侧面和背面。下方是四张小型头部表情稿：困倦、自豪、慌乱和大笑。右侧是她的道具小稿：一把托着圆面包的木铲、一只黄铜铃和一盏油灯。视图旁用手写体添加小号铅笔注记："front", "side", "back", "sleepy", "proud", "flustered", "laughing"。柔和铅笔底稿上叠加松散的水彩晕染，色调为暖棕色、矢车菊蓝、奶油色和灯光黄。
-```
-
-### [羊年吉祥物绒绒](https://prompix.ai/zh/prompts/fp-rongrong-year-of-goat)
-
-<a href="https://prompix.ai/zh/prompts/fp-rongrong-year-of-goat"><img src="https://api.prompix.ai/media/w480/9c2a4345a7ad219df62991b8e92ae95da6095d5e1b481e4dfc1a77e702776ffa.jpg" alt="羊年吉祥物绒绒" width="360"></a>
-
-原创羊年吉祥物设定图：一团像毛线云朵的小绵羊系着红围巾，上排是三视图，下排是三个表情，附中文标注。换个生肖或角色，就是一张新的吉祥物设定图。
-
-**模型：** Seedream 5.0 Pro
-
-```text
-一张原创吉祥物设定图，横版，浅灰白背景，干净的平面插画风格。角色是2027羊年的吉祥物「绒绒」，一只圆滚滚的小绵羊，身体像一团米白色的毛线云朵，脸和四肢是暖棕色，头上一对卷曲的小角，脖子上系一条红色围巾。画面上排是三视图：正面、侧面、背面，每个视图下面分别标注「正面」「侧面」「背面」。下排是三个表情：开心、害羞、打哈欠，分别标注「开心」「害羞」「打哈欠」。右上角写标题「绒绒 · 角色设定」。配色只有米白、暖棕、红色和浅灰。线条简洁圆润，每个视图里的比例一致。全部文字用简体字，逐字照写，不要其他文字。
 ```
 
 ## 空间
@@ -1019,7 +1077,57 @@ Subject: a nobleman in a powdered wig, a blue velvet coat and a lace cravat, one
 一幅用深海军蓝和番茄红两色印在厚实米白棉纸上的凸版印刷作品，竖幅构图。虚构野外指南的一页，顶部用粗体木活字 slab serif 字体印着标题“LOST GLOVES OF NOVEMBER”，下方以小号斜体衬线字体印着“single specimens recovered from city railings”。八只奇特的手套和连指手套以油毡版画标本的形式绘出，整齐排列成 4×2 网格，每只都由一根小图钉固定，可见凿刻痕迹。每只手套下方都有一张小型打字标签："left, wool, bus stop"、"right, leather, park gate"、"child's mitten, bridge"、"fingerless, café chair"、"ski glove, fence post"、"left, knitted stripes"、"gardening glove, Tuesday"、"one of a pair, unclaimed"。字母边缘有轻微挤墨，墨色覆盖不均，版框压出淡淡的盲压凹痕，右下角有一个红色小号目录编号“Fig. 11”。页边留白宽阔，版式如安静的博物馆标签。不要渐变，不要照片元素。
 ```
 
+## 角色
+
+### [提灯飞蛾的行走帧](https://prompix.ai/zh/prompts/fp-lantern-moth-sprites)
+
+<a href="https://prompix.ai/zh/prompts/fp-lantern-moth-sprites"><img src="https://api.prompix.ai/media/w480/61deccd77585c50388b2934548779b0b70e0e419e33ae6f82e050c0a27bbfae0.jpg" alt="提灯飞蛾的行走帧" width="360"></a>
+
+原创像素角色的精灵图表：一只提着纸灯笼的小飞蛾，四个方向各有八帧行走动画，右侧附八色色板。换个角色就能直接为独立游戏打样。
+
+**模型：** GPT Image 2.6
+
+```text
+一张原创游戏角色的像素精灵图表，置于深海军蓝背景上，背景带有淡淡网格，横幅。角色是一只提着棍子和发光纸灯笼的小飞蛾。四行各八帧，分别是面朝下、左、右、上的完整行走循环；每帧为 32 乘 32 像素，并以清晰锐利的像素边缘放大，不作抗锯齿处理。右侧有一条包含八个色样的色板：灰棕色、奶油色、浅丁香紫、深海军蓝、灯笼橙、暖黄色、柔白色、炭灰色。左上角用小号像素字体标注 "LANTERN MOTH - WALK"。有限调色板，轮廓干净利落，每帧比例一致。
+```
+
+### [送汤的退休信鸽](https://prompix.ai/zh/prompts/fp-margot-puppet-reference)
+
+<a href="https://prompix.ai/zh/prompts/fp-margot-puppet-reference"><img src="https://api.prompix.ai/media/w480/b70ed93503d681e87bbb289afdc683c7787f6386cf9d7da4f5724173489a41b7.jpg" alt="送汤的退休信鸽" width="360"></a>
+
+定格动画玩偶的制作参考表：上排四个转面，下排五张可替换表情脸，美纹纸手写标签。换个角色就是一张新的玩偶设定。
+
+**模型：** GPT Image 2.6
+
+```text
+原创定格动画木偶的制作参考表，在浅灰色无缝背景和柔和均匀的影棚光下拍摄，横幅构图。角色名叫 Margot，是一只退休的邮递鸽，如今负责送汤：圆胖的毛毡与羊毛鸽子，内有金属丝骨架，系着一条迷你针织芥末黄围巾，穿着带黄铜纽扣的海军蓝马甲，背着一个装有带盖锡锅的小帆布包。顶排是同一木偶站在小型支架上的四个全身转面视图，标签为 "FRONT"、"3/4"、"SIDE"、"BACK"。底排是五张像标本一样排开的可互换替换脸，标签为 "CALM"、"SURPRISED"、"PROUD"、"SLEEPY"、"WORRIED"。每个标签都用黑色记号笔手写在一条遮蔽胶带上，标题 "MARGOT · PUPPET REF" 位于左上角。可见毛毡纤维、缝线，以及黏土鸟喙上的细小指纹。配色为鸽灰、海军蓝、芥末黄和米白色。
+```
+
+### [只在夜里开门的刺猬面包师](https://prompix.ai/zh/prompts/fp-mrs-fennel-night-baker)
+
+<a href="https://prompix.ai/zh/prompts/fp-mrs-fennel-night-baker"><img src="https://api.prompix.ai/media/w480/c4e64def885040b57df34e77b14e8600c4ca53bcf20844c4b541ee08992ddef8.jpg" alt="只在夜里开门的刺猬面包师" width="360"></a>
+
+绘本角色设定页：开夜间面包店的老刺猬，三视图、四种表情和三件道具，附水彩加铅笔手写标注。换个角色就是一页新的绘本设定。
+
+**模型：** Nano Banana 2.1
+
+```text
+一张儿童绘本水彩角色设定图，画在暖白色冷压纸上，横幅。原创角色是芬妮尔太太，一只年迈的刺猬，经营着一家只在夜间营业的面包店：戴圆框眼镜，穿着沾满面粉的蓝色围裙，里面是针织开衫，身上长着柔软的棕色刺。上方排列三个全身视图：正面、侧面和背面。下方是四张小型头部表情稿：困倦、自豪、慌乱和大笑。右侧是她的道具小稿：一把托着圆面包的木铲、一只黄铜铃和一盏油灯。视图旁用手写体添加小号铅笔注记："front", "side", "back", "sleepy", "proud", "flustered", "laughing"。柔和铅笔底稿上叠加松散的水彩晕染，色调为暖棕色、矢车菊蓝、奶油色和灯光黄。
+```
+
 ## 社交
+
+### [胶片里的圣诞早晨](https://prompix.ai/zh/prompts/fp-christmas-morning-on-film)
+
+<a href="https://prompix.ai/zh/prompts/fp-christmas-morning-on-film"><img src="https://api.prompix.ai/media/w480/c193f6f8777a5069b6d4b65615024c4580771ba0508df0fd956a0ac9bfab90de.jpg" alt="胶片里的圣诞早晨" width="360"></a>
+
+改开头的礼物和房间，再上传一张照片就能用：照片里的人穿着睡衣坐在拆开的包装纸里，有人正拿起礼物，窗光从一侧进来，暖色褪色胶片和颗粒，像家里人随手拍的。情侣、一家四口、老夫妻、独自一人都验证过。
+
+**模型：** GPT Image 2.6
+
+```text
+礼物：a pair of hand-knitted mittens。房间：a farmhouse living room with exposed wooden beams。把我上传的照片变成一张圣诞节早晨的抓拍照，仿佛由家人用胶片相机拍摄。照片中的人物保持原样：面孔、年龄、肤色和发型都与原照相同；所有人都是成年人。他们穿着睡衣和厚袜子，坐在上方描述的房间地板上，四周散落着撕开的包装纸、卷曲的缎带和打开的盒子。其中一人正从盒子里拿起上方的礼物，露出真实自然、未经摆拍的反应；其他人都看着他，而不是看镜头。低机位拍摄，高度与坐在沙发上的人相当，画面略微倾斜。一侧的大窗透进柔和的晨光，让每个人脸的一侧受光，另一侧落入柔和的阴影中。背景里立着一棵亮着灯的圣诞树，但灯光在日光中显得微弱。地板上有一杯咖啡、一个皱巴巴的蝴蝶结，还有些许凌乱。温暖、略微褪色的彩色胶片效果：高光呈奶油色，黑位提亮，可见颗粒，画面角落略显柔和。避免：文字、标志、布置得像样板间的场景、闪光灯、所有人都看着镜头。
+```
 
 ### [通勤转播](https://prompix.ai/zh/prompts/fp-commute-race-broadcast)
 
